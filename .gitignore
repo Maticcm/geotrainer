@@ -46,3 +46,6 @@ test_tolerances.ts
 /map.html
 /map.svg
 scripts/.cache/
+
+.vercel
+.env*
