@@ -1,0 +1,42 @@
+{
+  "oceans-seas": {
+    "features": 12,
+    "bytes": 68413
+  },
+  "continents": {
+    "features": 8,
+    "bytes": 171141
+  },
+  "mountains": {
+    "features": 10,
+    "bytes": 19521
+  },
+  "canals-straits": {
+    "features": 3,
+    "bytes": 1017
+  },
+  "countries": {
+    "features": 16,
+    "bytes": 241696
+  },
+  "rivers": {
+    "features": 22,
+    "bytes": 46919
+  },
+  "lakes": {
+    "features": 10,
+    "bytes": 51502
+  },
+  "islands": {
+    "features": 16,
+    "bytes": 70472
+  },
+  "deserts": {
+    "features": 6,
+    "bytes": 7345
+  },
+  "peninsulas": {
+    "features": 8,
+    "bytes": 34392
+  }
+}

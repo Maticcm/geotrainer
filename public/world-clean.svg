@@ -1,0 +1,3381 @@
+<svg id="geo-world-map" viewBox="0 0 895.92 471.76" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" class="geo-vector-map" xmlns="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25" />
+  <g id="g1910">
+    <path id="Canada" class="land-path" data-country-id="Canada" d="Canada" />
+    <text id="Canada_label" class="map-label" x="163.09" y="Arial"><tspan x="163.09" y="Arial">CANADA</tspan></text>
+  </g>
+  <g id="g1895">
+    <path id="United_States" class="land-path" data-country-id="United_States" d="United_States" />
+    <text id="United_States_label" class="map-label" x="166.1" y="Arial"><tspan x="166.1" y="Arial">UNITED STATES</tspan></text>
+  </g>
+  <g id="g4311">
+    <path id="United_Kingdom" class="land-path" data-country-id="United_Kingdom" d="United_Kingdom" />
+    <text id="United_Kingdom_label" class="map-label" x="434.46" y="Arial"><tspan x="434.46" y="Arial">UNITED KINGDOM</tspan></text>
+  </g>
+  
+  
+  <g id="g1791">
+    <path id="Mexico" class="land-path" data-country-id="Mexico" d="Mexico" />
+    <text id="Mexico_label" class="map-label" x="184.42" y="Arial"><tspan x="184.42" y="Arial">MEXICO</tspan></text>
+  </g>
+  <g id="g3584">
+    <path id="Saudi_Arabia" class="land-path" data-country-id="Saudi_Arabia" d="Saudi_Arabia" />
+    <text id="Saudi_Arabia_label" class="map-label" x="545.33" y="Arial"><tspan x="545.33" y="Arial">SAUDI ARABIA</tspan></text>
+  </g>
+  <g id="g4213">
+    <path id="Réunion" class="land-path" data-country-id="Réunion" d="Réunion" />
+  </g>
+  <g id="g4216">
+    <path id="Guadeloupe" class="land-path" data-country-id="Guadeloupe" d="Guadeloupe" />
+  </g>
+  <g id="g4219">
+    <path id="Martinique" class="land-path" data-country-id="Martinique" d="Martinique" />
+  </g>
+  <g id="g4225">
+    <path id="Fiji" class="land-path" data-country-id="Fiji" d="Fiji" />
+  </g>
+  <g id="g4228">
+    <path id="New_Caledonia" class="land-path" data-country-id="New_Caledonia" d="New_Caledonia" />
+  </g>
+  <g id="g4231">
+    <path id="Bahamas" class="land-path" data-country-id="Bahamas" d="Bahamas" />
+  </g>
+  <g id="g4234">
+    <path id="French_Southern_and_Antarctic_Lands" class="land-path" data-country-id="French_Southern_and_Antarctic_Lands" d="French_Southern_and_Antarctic_Lands" />
+  </g>
+  <g id="g4237">
+    <path id="Grenada" class="land-path" data-country-id="Grenada" d="Grenada" />
+  </g>
+  <g id="g4240">
+    <path id="Saint_Vincent_and_the_Grenadines" class="land-path" data-country-id="Saint_Vincent_and_the_Grenadines" d="Saint_Vincent_and_the_Grenadines" />
+  </g>
+  <g id="g4243">
+    <path id="Barbados" class="land-path" data-country-id="Barbados" d="Barbados" />
+  </g>
+  <g id="g4246">
+    <path id="Saint_Lucia" class="land-path" data-country-id="Saint_Lucia" d="Saint_Lucia" />
+  </g>
+  <g id="g4252">
+    <path id="Dominica" class="land-path" data-country-id="Dominica" d="Dominica" />
+  </g>
+  <g id="g4249">
+    <path id="Antigua_and_Barbuda" class="land-path" data-country-id="Antigua_and_Barbuda" d="Antigua_and_Barbuda" />
+  </g>
+  <g id="g4255">
+    <path id="Mauritius" class="land-path" data-country-id="Mauritius" d="Mauritius" />
+  </g>
+  <g id="g4258">
+    <path id="Comoros" class="land-path" data-country-id="Comoros" d="Comoros" />
+  </g>
+  <g id="g4261">
+    <path id="São_Tomé_and_Principe" class="land-path" data-country-id="São_Tomé_and_Principe" d="São_Tomé_and_Principe" />
+  </g>
+  <g id="g4264">
+    <path id="Cabo_Verde" class="land-path" data-country-id="Cabo_Verde" d="Cabo_Verde" />
+  </g>
+  <g id="g4267">
+    <path id="Faeroe_Islands" class="land-path" data-country-id="Faeroe_Islands" d="Faeroe_Islands" />
+  </g>
+  <g id="g4270">
+    <path id="Samoa" class="land-path" data-country-id="Samoa" d="Samoa" />
+  </g>
+  <g id="g4273">
+    <path id="Solomon_Islands" class="land-path" data-country-id="Solomon_Islands" d="Solomon_Islands" />
+  </g>
+  <g id="g4276">
+    <path id="South_Georgia_and_the_South_Sandwich_Islands" class="land-path" data-country-id="South_Georgia_and_the_South_Sandwich_Islands" d="South_Georgia_and_the_South_Sandwich_Islands" />
+  </g>
+  <g id="g4279">
+    <path id="Falkland_Islands" class="land-path" data-country-id="Falkland_Islands" d="Falkland_Islands" />
+  </g>
+  <g id="g4282">
+    <path id="Vanuatu" class="land-path" data-country-id="Vanuatu" d="Vanuatu" />
+  </g>
+  <g id="g4285">
+    <path id="American_Samoa" class="land-path" data-country-id="American_Samoa" d="American_Samoa" />
+  </g>
+  <g id="g3193">
+    <path id="Peru" class="land-path" data-country-id="Peru" d="Peru" />
+    <text id="Peru_label" class="map-label" x="251.27" y="Arial"><tspan x="251.27" y="Arial">PERU</tspan></text>
+  </g>
+  <g id="g3223">
+    <path id="Ecuador" class="land-path" data-country-id="Ecuador" d="Ecuador" />
+    <text id="Ecuador_label" class="map-label" x="227.67" y="Arial"><tspan x="227.67" y="Arial">ECUADOR</tspan></text>
+  </g>
+  <g id="g4016">
+    <path id="Australia" class="land-path" data-country-id="Australia" d="Australia" />
+    <text id="Australia_label" class="map-label" x="754.89" y="Arial"><tspan x="754.89" y="Arial">AUSTRALIA</tspan></text>
+  </g>
+  <g id="g1786">
+    <path id="Greenland" class="land-path" data-country-id="Greenland" d="Greenland" />
+    <text id="Greenland_label" class="map-label" x="323.52" y="Arial"><tspan x="323.52" y="Arial">GREENLAND</tspan></text>
+  </g>
+  <g id="g3203">
+    <path id="Uruguay" class="land-path" data-country-id="Uruguay" d="Uruguay" />
+    <text id="Uruguay_label" class="map-label" x="314.53" y="Arial"><tspan x="314.53" y="Arial">URUGUAY</tspan></text>
+  </g>
+  <g id="g3198">
+    <path id="Argentina" class="land-path" data-country-id="Argentina" d="Argentina" />
+    <text id="Argentina_label" class="map-label" x="274.25" y="Arial"><tspan x="274.25" y="Arial">ARGENTINA</tspan></text>
+  </g>
+  <g id="g3228">
+    <path id="Venezuela" class="land-path" data-country-id="Venezuela" d="Venezuela" />
+    <text id="Venezuela_label" class="map-label" x="273.35" y="Arial"><tspan x="273.35" y="Arial">VENEZUELA</tspan></text>
+  </g>
+  <g id="g3218">
+    <path id="Colombia" class="land-path" data-country-id="Colombia" d="Colombia" />
+    <text id="Colombia_label" class="map-label" x="256.23" y="Arial"><tspan x="256.23" y="Arial">COLOMBIA</tspan></text>
+  </g>
+  <g id="g3297">
+    <path id="El_Salvador" class="land-path" data-country-id="El_Salvador" d="El_Salvador" />
+    <text id="El_Salvador_label" class="map-label" x="136.52" y="Arial"><tspan x="136.52" y="Arial">EL SALVADOR</tspan></text>
+  </g>
+  <g id="g3188">
+    <path id="Bolivia" class="land-path" data-country-id="Bolivia" d="Bolivia" />
+    <text id="Bolivia_label" class="map-label" x="277.83" y="Arial"><tspan x="277.83" y="Arial">BOLIVIA</tspan></text>
+  </g>
+  <g id="g3183">
+    <path id="Brazil" class="land-path" data-country-id="Brazil" d="Brazil" />
+    <text id="Brazil_label" class="map-label" x="308.6" y="Arial"><tspan x="308.6" y="Arial">BRAZIL</tspan></text>
+  </g>
+  <g id="g3277">
+    <path id="Cuba" class="land-path" data-country-id="Cuba" d="Cuba" />
+    <text id="Cuba_label" class="map-label" x="237.9" y="Arial"><tspan x="237.9" y="Arial">CUBA</tspan></text>
+  </g>
+  <g id="g3238">
+    <path id="Suriname" class="land-path" data-country-id="Suriname" d="Suriname" />
+    <text id="Suriname_label" class="map-label" x="22.82" y="Arial"><tspan x="22.82" y="Arial">SURINAME</tspan></text>
+  </g>
+  <g id="g3272">
+    <path id="Jamaica" class="land-path" data-country-id="Jamaica" d="Jamaica" />
+    <text id="Jamaica_label" class="map-label" x="245.31" y="Arial"><tspan x="245.31" y="Arial">JAMAICA</tspan></text>
+  </g>
+  <g id="g3208">
+    <path id="Chile" class="land-path" data-country-id="Chile" d="Chile" />
+    <text id="Chile_label" class="map-label" x="253.84" y="Arial"><tspan x="253.84" y="Arial">CHILE</tspan></text>
+  </g>
+  <g id="g3233">
+    <path id="Guyana" class="land-path" data-country-id="Guyana" d="Guyana" />
+    <text id="Guyana_label" class="map-label" x="20.85" y="Arial"><tspan x="20.85" y="Arial">GUYANA</tspan></text>
+  </g>
+  <g id="g3307">
+    <path id="Guatemala" class="land-path" data-country-id="Guatemala" d="Guatemala" />
+    <text id="Guatemala_label" class="map-label" x="126.79" y="Arial"><tspan x="126.79" y="Arial">GUATEMALA</tspan></text>
+  </g>
+  <g id="g3287">
+    <path id="Costa_Rica" class="land-path" data-country-id="Costa_Rica" d="Costa_Rica" />
+    <text id="Costa_Rica_label" class="map-label" x="141.16" y="Arial"><tspan x="141.16" y="Arial">COSTA RICA</tspan></text>
+  </g>
+  <g id="g3302">
+    <path id="Honduras" class="land-path" data-country-id="Honduras" d="Honduras" />
+    <text id="Honduras_label" class="map-label" x="237.41" y="Arial"><tspan x="237.41" y="Arial">HONDURAS</tspan></text>
+  </g>
+  <g id="g3244">
+    <path id="French_Guiana" class="land-path" data-country-id="French_Guiana" d="French_Guiana" />
+    <text
+       xml:space="preserve"
+       id="French_Guiana_label"
+       x="316.73"
+       y="275.85"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".19"
+       font-family="Arial"
+       font-size="3.33"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:100%;-inkscape-font-specification:Arial;text-align:start"
+       text-anchor="start"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan4320"
+         x="316.73"
+         y="275.85"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".19"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial">FRENCH</tspan><tspan
+         id="tspan20805"
+         x="316.73"
+         y="279.18">GUIANA</tspan></text>
+  </g>
+  <g id="g3312">
+    <path id="Belize" class="land-path" data-country-id="Belize" d="Belize" />
+    <text id="Belize_label" class="map-label" x="229.86" y="Arial"><tspan x="229.86" y="Arial">BELIZE</tspan></text>
+  </g>
+  <g id="g3250">
+    <path id="Trinidad_and_Tobago" class="land-path" data-country-id="Trinidad_and_Tobago" d="Trinidad_and_Tobago" />
+    <text
+       xml:space="preserve"
+       id="Trinidad_and_Tobago_label"
+       x="300.47"
+       y="262.53"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".13"
+       font-family="Arial"
+       font-size="2.1"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:100%;-inkscape-font-specification:Arial;text-align:center"
+       text-anchor="middle"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan4344"
+         x="300.47"
+         y="262.53"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".13"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial;text-align:center"
+         text-anchor="middle">TRINIDAD</tspan><tspan
+         id="tspan20811"
+         x="300.47"
+         y="264.63">&amp; TOBAGO</tspan></text>
+  </g>
+  <g id="g3256">
+    <path id="Puerto_Rico" class="land-path" data-country-id="Puerto_Rico" d="Puerto_Rico" />
+    <text
+       xml:space="preserve"
+       id="Puerto_Rico_label"
+       x="287.48"
+       y="250.02"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".14"
+       font-family="Arial"
+       font-size="2.34"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:100%;-inkscape-font-specification:Arial;text-align:center"
+       text-anchor="middle"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan4350"
+         x="287.48"
+         y="250.02"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".14"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial;text-align:center"
+         text-anchor="middle">PUERTO</tspan><tspan
+         id="tspan20817"
+         x="287.48"
+         y="252.36">RICO</tspan></text>
+  </g>
+  <g id="g3267">
+    <path id="Haiti" class="land-path" data-country-id="Haiti" d="Haiti" />
+    <text id="Haiti_label" class="map-label" x="260.28" y="Arial"><tspan x="260.28" y="Arial">HAITI</tspan></text>
+  </g>
+  <g id="g3262">
+    <path id="Dominican_Republic" class="land-path" data-country-id="Dominican_Republic" d="Dominican_Republic" />
+    <text
+       xml:space="preserve"
+       id="Dominican_Republic_label"
+       x="277.67"
+       y="239.66"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".14"
+       font-family="Arial"
+       font-size="2.33"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:100%;-inkscape-font-specification:Arial;text-align:center"
+       text-anchor="middle"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan4384"
+         x="277.67"
+         y="239.66"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".14"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial">DOMINICAN</tspan><tspan
+         id="tspan19168"
+         x="277.67"
+         y="241.99">REPUBLIC</tspan></text>
+  </g>
+  <g id="g3292">
+    <path id="Nicaragua" class="land-path" data-country-id="Nicaragua" d="Nicaragua" />
+    <text id="Nicaragua_label" class="map-label" x="140.96" y="Arial"><tspan x="140.96" y="Arial">NICARAGUA</tspan></text>
+  </g>
+  <g id="g3282">
+    <path id="Panama" class="land-path" data-country-id="Panama" d="Panama" />
+    <text id="Panama_label" class="map-label" x="154.57" y="Arial"><tspan x="154.57" y="Arial">PANAMA</tspan></text>
+  </g>
+  <g id="g3680">
+    <path id="Italy" class="land-path" data-country-id="Italy" d="Italy" />
+    <text id="Italy_label" class="map-label" x="470.3" y="Arial"><tspan x="470.3" y="Arial">ITALY</tspan></text>
+  </g>
+  <g id="g3841">
+    <path id="Czechia" class="land-path" data-country-id="Czechia" d="Czechia" />
+    <text id="Czechia_label" class="map-label" x="481.09" y="Arial"><tspan x="481.09" y="Arial">CZECHIA</tspan></text>
+  </g>
+  <g id="g3650">
+    <path id="Greece" class="land-path" data-country-id="Greece" d="Greece" />
+    <text id="Greece_label" class="map-label" x="500.14" y="Arial"><tspan x="500.14" y="Arial">GREECE</tspan></text>
+  </g>
+  <g id="g3695">
+    <path id="Netherlands" class="land-path" data-country-id="Netherlands" d="Netherlands" />
+    <text id="Netherlands_label" class="map-label" x="450.34" y="Arial"><tspan x="450.34" y="Arial">NETHERLANDS</tspan></text>
+  </g>
+  <g id="g3710">
+    <path id="Germany" class="land-path" data-country-id="Germany" d="Germany" />
+    <text id="Germany_label" class="map-label" x="464.07" y="Arial"><tspan x="464.07" y="Arial">GERMANY</tspan></text>
+  </g>
+  <g id="g3779">
+    <path id="Romania" class="land-path" data-country-id="Romania" d="Romania" />
+    <text id="Romania_label" class="map-label" x="500.88" y="Arial"><tspan x="500.88" y="Arial">ROMANIA</tspan></text>
+  </g>
+  <g id="g3705">
+    <path id="Denmark" class="land-path" data-country-id="Denmark" d="Denmark" />
+    <text id="Denmark_label" class="map-label" x="455.74" y="Arial"><tspan x="455.74" y="Arial">DENMARK</tspan></text>
+  </g>
+  <g id="g3734">
+    <path id="Iceland" class="land-path" data-country-id="Iceland" d="Iceland" />
+    <text id="Iceland_label" class="map-label" x="395.09" y="Arial"><tspan x="395.09" y="Arial">ICELAND</tspan></text>
+  </g>
+  <g id="g3655">
+    <path id="Portugal" class="land-path" data-country-id="Portugal" d="Portugal" />
+    <text id="Portugal_label" class="map-label" x="405.54" y="Arial"><tspan x="405.54" y="Arial">PORTUGAL</tspan></text>
+  </g>
+  <g id="g3660">
+    <path id="Spain" class="land-path" data-country-id="Spain" d="Spain" />
+    <text id="Spain_label" class="map-label" x="432.35" y="Arial"><tspan x="432.35" y="Arial">SPAIN</tspan></text>
+  </g>
+  <g id="g3846">
+    <path id="Austria" class="land-path" data-country-id="Austria" d="Austria" />
+    <text id="Austria_label" class="map-label" x="420.25" y="Arial"><tspan x="420.25" y="Arial">AUSTRIA</tspan></text>
+  </g>
+  <g id="g3831">
+    <path id="Hungary" class="land-path" data-country-id="Hungary" d="Hungary" />
+    <text id="Hungary_label" class="map-label" x="490.08" y="Arial"><tspan x="490.08" y="Arial">HUNGARY</tspan></text>
+  </g>
+  <g id="g3821">
+    <path id="Croatia" class="land-path" data-country-id="Croatia" d="Croatia" />
+    <text id="Croatia_label" class="map-label" x="486.46" y="Arial"><tspan x="486.46" y="Arial">CROATIA</tspan></text>
+  </g>
+  <g id="g3724">
+    <path id="Sweden" class="land-path" data-country-id="Sweden" d="Sweden" />
+    <text id="Sweden_label" class="map-label" x="483.51" y="Arial"><tspan x="483.51" y="Arial">SWEDEN</tspan></text>
+  </g>
+  <g id="g3635">
+    <path id="Türkiye" class="land-path" data-country-id="Türkiye" d="Türkiye" />
+    <text id="Türkiye_label" class="map-label" x="524.18" y="Arial"><tspan x="524.18" y="Arial">TÜRKIYE</tspan></text>
+  </g>
+  <g id="g3810">
+    <path id="Serbia" class="land-path" data-country-id="Serbia" d="Serbia" />
+    <text id="Serbia_label" class="map-label" x="496.91" y="Arial"><tspan x="496.91" y="Arial">SERBIA</tspan></text>
+  </g>
+  <g id="g3836">
+    <path id="Slovakia" class="land-path" data-country-id="Slovakia" d="Slovakia" />
+    <text id="Slovakia_label" class="map-label" x="492.89" y="Arial"><tspan x="492.89" y="Arial">SLOVAKIA</tspan></text>
+  </g>
+  <g id="g3754">
+    <path id="Lithuania" class="land-path" data-country-id="Lithuania" d="Lithuania" />
+    <text id="Lithuania_label" class="map-label" x="502.28" y="Arial"><tspan x="502.28" y="Arial">LITHUANIA</tspan></text>
+  </g>
+  <g id="g3749">
+    <path id="Latvia" class="land-path" data-country-id="Latvia" d="Latvia" />
+    <text id="Latvia_label" class="map-label" x="507.6" y="Arial"><tspan x="507.6" y="Arial">LATVIA</tspan></text>
+  </g>
+  <g id="g3744">
+    <path id="Estonia" class="land-path" data-country-id="Estonia" d="Estonia" />
+    <text id="Estonia_label" class="map-label" x="507.41" y="Arial"><tspan x="507.41" y="Arial">ESTONIA</tspan></text>
+  </g>
+  <g id="g3800">
+    <path id="Montenegro" class="land-path" data-country-id="Montenegro" d="Montenegro" />
+    <text id="Montenegro_label" class="map-label" x="488.03" y="Arial"><tspan x="488.03" y="Arial">MONTENEGRO</tspan></text>
+  </g>
+  <g id="g3719">
+    <path id="Norway" class="land-path" data-country-id="Norway" d="Norway" />
+    <text id="Norway_label" class="map-label" x="457.31" y="Arial"><tspan x="457.31" y="Arial">NORWAY</tspan></text>
+  </g>
+  <g id="g3729">
+    <path id="Finland" class="land-path" data-country-id="Finland" d="Finland" />
+    <text id="Finland_label" class="map-label" x="505.63" y="Arial"><tspan x="505.63" y="Arial">FINLAND</tspan></text>
+  </g>
+  <g id="g3645">
+    <path id="Malta" class="land-path" data-country-id="Malta" d="Malta" />
+    <text id="Malta_label" class="map-label" x="486.94" y="Arial"><tspan x="486.94" y="Arial">MALTA</tspan></text>
+  </g>
+  <g id="g3769">
+    <path id="Poland" class="land-path" data-country-id="Poland" d="Poland" />
+    <text id="Poland_label" class="map-label" x="487.78" y="Arial"><tspan x="487.78" y="Arial">POLAND</tspan></text>
+  </g>
+  <g id="g3795">
+    <path id="Albania" class="land-path" data-country-id="Albania" d="Albania" />
+    <text id="Albania_label" class="map-label" x="494.65" y="Arial"><tspan x="494.65" y="Arial">ALBANIA</tspan></text>
+  </g>
+  <g id="g3700">
+    <path id="Ireland" class="land-path" data-country-id="Ireland" d="Ireland" />
+    <text id="Ireland_label" class="map-label" x="408.73" y="Arial"><tspan x="408.73" y="Arial">IRELAND</tspan></text>
+  </g>
+  <g id="g3805">
+    <path id="Kosovo" class="land-path" data-country-id="Kosovo" d="Kosovo" />
+    <text id="Kosovo_label" class="map-label" x="498.28" y="Arial"><tspan x="498.28" y="Arial">KOSOVO</tspan></text>
+  </g>
+  <g id="g3816">
+    <path id="Bosnia_and_Herzegovina" class="land-path" data-country-id="Bosnia_and_Herzegovina" d="Bosnia_and_Herzegovina" />
+    <text
+       xml:space="preserve"
+       id="Bosnia_and_Herzegovina_label"
+       x="489.62"
+       y="175.02"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".2"
+       font-family="Arial"
+       font-size="1.59"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="-.06"
+       style="line-height:0;-inkscape-font-specification:Arial;text-align:start"
+       text-anchor="start"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan5444"
+         x="489.62"
+         y="175.02"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".2"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="line-height:1em;-inkscape-font-specification:Arial">BOSNIA </tspan><tspan
+         id="tspan3757"
+         x="489.62"
+         y="176.61"
+         style="line-height:1em">&amp; HERZ.</tspan></text>
+  </g>
+  <g id="g3866">
+    <path id="Armenia" class="land-path" data-country-id="Armenia" d="Armenia" />
+    <text id="Armenia_label" class="map-label" x="556.92" y="Arial"><tspan x="556.92" y="Arial">ARMENIA</tspan></text>
+  </g>
+  <g id="g3665">
+    <path id="France" class="land-path" data-country-id="France" d="France" />
+    <text id="France_label" class="map-label" x="445.79" y="Arial"><tspan x="445.79" y="Arial">FRANCE</tspan></text>
+  </g>
+  <g id="g3685">
+    <path id="Switzerland" class="land-path" data-country-id="Switzerland" d="Switzerland" />
+    <text id="Switz._label" class="map-label" x="463.99" y="Arial"><tspan x="463.99" y="Arial">SWITZ.</tspan></text>
+  </g>
+  <g id="g3764">
+    <path id="Ukraine" class="land-path" data-country-id="Ukraine" d="Ukraine" />
+    <text id="Ukraine_label" class="map-label" x="512.47" y="Arial"><tspan x="512.47" y="Arial">UKRAINE</tspan></text>
+  </g>
+  <g id="g3759">
+    <path id="Belarus" class="land-path" data-country-id="Belarus" d="Belarus" />
+    <text id="Belarus_label" class="map-label" x="507.84" y="Arial"><tspan x="507.84" y="Arial">BELARUS</tspan></text>
+  </g>
+  <g id="g3640">
+    <path id="Cyprus" class="land-path" data-country-id="Cyprus" d="Cyprus" />
+    <text id="Cyprus_label" class="map-label" x="522.13" y="Arial"><tspan x="522.13" y="Arial">CYPRUS</tspan></text>
+  </g>
+  <g id="g3851">
+    <path id="Luxembourg" class="land-path" data-country-id="Luxembourg" d="Luxembourg" />
+    <text id="Luxembourg_label" class="map-label" x="457.86" y="Arial"><tspan x="457.86" y="Arial">LUXEMBOURG</tspan></text>
+  </g>
+  <g id="g3670">
+    <path id="Andorra" class="land-path" data-country-id="Andorra" d="Andorra" />
+    <text id="Andorra_label" class="map-label" x="443.82" y="Arial"><tspan x="443.82" y="Arial">ANDORRA</tspan></text>
+  </g>
+  <g id="g3675">
+    <path id="Monaco" class="land-path" data-country-id="Monaco" d="Monaco" />
+    <text
+       xml:space="preserve"
+       id="Monaco_label"
+       x="464.14"
+       y="179.74"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".19"
+       font-family="Arial"
+       font-size="1.5"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="-.08"
+       style="line-height:125%;-inkscape-font-specification:Arial;text-align:start"
+       text-anchor="start"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan5713"
+         x="464.14"
+         y="179.74"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".19"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial">MONACO</tspan></text>
+  </g>
+  <g id="g2125">
+    <path id="Liechtenstein" class="land-path" data-country-id="Liechtenstein" d="Liechtenstein" />
+    <text
+       xml:space="preserve"
+       id="Liechtenstein_label"
+       x="472.26"
+       y="167.94"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".13"
+       font-family="Arial"
+       font-size="1.01"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="-.08"
+       style="line-height:125%;-inkscape-font-specification:Arial;text-align:start;fill-opacity:1;stroke-opacity:1"
+       text-anchor="start"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan5713-7"
+         x="472.26"
+         y="167.94"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".13"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial">LIECHTENSTEIN</tspan></text>
+  </g>
+  <g id="g3774">
+    <path id="Moldova" class="land-path" data-country-id="Moldova" d="Moldova" />
+    <text id="Moldova_label" class="map-label" x="513.23" y="Arial"><tspan x="513.23" y="Arial">MOLDOVA</tspan></text>
+  </g>
+  <g id="g3553">
+    <path id="Libya" class="land-path" data-country-id="Libya" d="Libya" />
+    <text id="Libya_label" class="map-label" x="483.92" y="Arial"><tspan x="483.92" y="Arial">LIBYA</tspan></text>
+  </g>
+  <g id="g3496">
+    <path id="Guinea_Bissau" class="land-path" data-country-id="Guinea_Bissau" d="Guinea_Bissau" />
+    <text id="Guinea_Bissau_label" class="map-label" x="387.5" y="Arial"><tspan x="387.5" y="Arial">GUINEA-BISSAU</tspan></text>
+  </g>
+  <g id="g3469">
+    <path id="Ghana" class="land-path" data-country-id="Ghana" d="Ghana" />
+    <text id="Ghana_label" class="map-label" x="440.32" y="Arial"><tspan x="440.32" y="Arial">GHANA</tspan></text>
+  </g>
+  <g id="g3352">
+    <path id="Madagascar" class="land-path" data-country-id="Madagascar" d="Madagascar" />
+    <text id="Madagascar_label" class="map-label" x="-28.21" y="Arial"><tspan x="-28.21" y="Arial">MADAGASCAR</tspan></text>
+  </g>
+  <g id="g3475">
+    <path id="Cote_d_Ivoire" class="land-path" data-country-id="Cote_d_Ivoire" d="Cote_d_Ivoire" />
+    <text
+       xml:space="preserve"
+       id="Cote_d_Ivoire_label"
+       x="429.29"
+       y="274.29"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".34"
+       font-family="Arial"
+       font-size="2.73"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:95%;-inkscape-font-specification:Arial;text-align:start"
+       text-anchor="start"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan6086"
+         x="429.29"
+         y="274.29"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".34"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial">COTE D'</tspan><tspan
+         id="tspan5393"
+         x="429.29"
+         y="276.87">IVOIRE</tspan></text>
+  </g>
+  <g id="g3543">
+    <path id="Algeria" class="land-path" data-country-id="Algeria" d="Algeria" />
+    <text id="Algeria_label" class="map-label" x="443.31" y="Arial"><tspan x="443.31" y="Arial">ALGERIA</tspan></text>
+  </g>
+  <g id="g3392">
+    <path id="Cameroon" class="land-path" data-country-id="Cameroon" d="Cameroon" />
+    <text id="Cameroon_label" class="map-label" x="132.81" y="Arial"><tspan x="132.81" y="Arial">CAMEROON</tspan></text>
+  </g>
+  <g id="g3332">
+    <path id="Botswana" class="land-path" data-country-id="Botswana" d="Botswana" />
+    <text id="Botswana_label" class="map-label" x="413.79" y="Arial"><tspan x="413.79" y="Arial">BOTSWANA</tspan></text>
+  </g>
+  <g id="g4041">
+    <path id="Kenya" class="land-path" data-country-id="Kenya" d="Kenya" />
+    <text id="Kenya_label" class="map-label" x="534.48" y="Arial"><tspan x="534.48" y="Arial">KENYA</tspan></text>
+  </g>
+  <g id="g3404">
+    <path id="South_Sudan" class="land-path" data-country-id="South_Sudan" d="South_Sudan" />
+    <text
+       xml:space="preserve"
+       id="South_Sudan_label"
+       x="517.68"
+       y="275.02"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".37"
+       font-family="Arial"
+       font-size="2.91"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:95%;-inkscape-font-specification:Arial;text-align:start"
+       text-anchor="start"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan6182"
+         x="517.68"
+         y="275.02"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".37"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial">SOUTH </tspan><tspan
+         id="tspan43791"
+         x="517.68"
+         y="277.78">SUDAN</tspan></text>
+  </g>
+  <g id="g3511">
+    <path id="Mali" class="land-path" data-country-id="Mali" d="Mali" />
+    <text id="Mali_label" class="map-label" x="437.97" y="Arial"><tspan x="437.97" y="Arial">MALI</tspan></text>
+  </g>
+  <g id="g3429">
+    <path id="Somalia" class="land-path" data-country-id="Somalia" d="Somalia" />
+    <text id="Somalia_label" class="map-label" x="570.66" y="Arial"><tspan x="570.66" y="Arial">SOMALIA</tspan></text>
+  </g>
+  <g id="g3347">
+    <path id="Mozambique" class="land-path" data-country-id="Mozambique" d="Mozambique" />
+    <text id="Mozambique_label" class="map-label" x="533.32" y="Arial"><tspan x="533.32" y="Arial">MOZAMBIQUE</tspan></text>
+  </g>
+  <g id="g3527">
+    <path id="Mauritania" class="land-path" data-country-id="Mauritania" d="Mauritania" />
+    <text id="Mauritania_label" class="map-label" x="407.76" y="Arial"><tspan x="407.76" y="Arial">MAURITANIA</tspan></text>
+  </g>
+  <g id="g3439">
+    <path id="Sudan" class="land-path" data-country-id="Sudan" d="Sudan" />
+    <text id="Sudan_label" class="map-label" x="512.45" y="Arial"><tspan x="512.45" y="Arial">SUDAN</tspan></text>
+  </g>
+  <g id="g3538">
+    <path id="Morocco" class="land-path" data-country-id="Morocco" d="Morocco" />
+    <text id="Morocco_label" class="map-label" x="258.47" y="Arial"><tspan x="258.47" y="Arial">MOROCCO</tspan></text>
+  </g>
+  <g id="g3558">
+    <path id="Egypt" class="land-path" data-country-id="Egypt" d="Egypt" />
+    <text id="Egypt_label" class="map-label" x="512.83" y="Arial"><tspan x="512.83" y="Arial">EGYPT</tspan></text>
+  </g>
+  <g id="g3317">
+    <path id="South_Africa" class="land-path" data-country-id="South_Africa" d="South_Africa" />
+    <text id="South_Africa_label" class="map-label" x="487.86" y="Arial"><tspan x="487.86" y="Arial">SOUTH AFRICA</tspan></text>
+  </g>
+  <g id="g3327">
+    <path id="Lesotho" class="land-path" data-country-id="Lesotho" d="Lesotho" />
+    <text id="Lesotho_label" class="map-label" x="505.89" y="Arial"><tspan x="505.89" y="Arial">LESOTHO</tspan></text>
+  </g>
+  <g id="g3322">
+    <path id="Eswatini" class="land-path" data-country-id="Eswatini" d="Eswatini" />
+    <text id="Eswatini_label" class="map-label" x="527.44" y="Arial"><tspan x="527.44" y="Arial">ESWATINI</tspan></text>
+  </g>
+  <g id="g3367">
+    <path id="Angola" class="land-path" data-country-id="Angola" d="Angola" />
+    <text id="Angola_label" class="map-label" x="482.85" y="Arial"><tspan x="482.85" y="Arial">ANGOLA</tspan></text>
+  </g>
+  <g id="g3362">
+    <path id="Zambia" class="land-path" data-country-id="Zambia" d="Zambia" />
+    <text id="Zambia_label" class="map-label" x="504.51" y="Arial"><tspan x="504.51" y="Arial">ZAMBIA</tspan></text>
+  </g>
+  <g id="g3342">
+    <path id="Zimbabwe" class="land-path" data-country-id="Zimbabwe" d="Zimbabwe" />
+    <text id="Zimbabwe_label" class="map-label" x="513.32" y="Arial"><tspan x="513.32" y="Arial">ZIMBABWE</tspan></text>
+  </g>
+  <g id="g3372">
+    <path id="DR_Congo" class="land-path" data-country-id="DR_Congo" d="DR_Congo" />
+    <text id="DR_Congo_label" class="map-label" x="491.21" y="Arial"><tspan x="491.21" y="Arial">DR CONGO</tspan></text>
+  </g>
+  <g id="g3377">
+    <path id="Congo" class="land-path" data-country-id="Congo" d="Congo" />
+    <text id="Congo_label" class="map-label" x="-19.16" y="Arial"><tspan x="-19.16" y="Arial">CONGO</tspan></text>
+  </g>
+  <g id="g3382">
+    <path id="Gabon" class="land-path" data-country-id="Gabon" d="Gabon" />
+    <text id="Gabon_label" class="map-label" x="470.58" y="Arial"><tspan x="470.58" y="Arial">GABON</tspan></text>
+  </g>
+  <g id="g3424">
+    <path id="Uganda" class="land-path" data-country-id="Uganda" d="Uganda" />
+    <text id="Uganda_label" class="map-label" x="306.19" y="Arial"><tspan x="306.19" y="Arial">UGANDA</tspan></text>
+  </g>
+  <g id="g3434">
+    <path id="Ethiopia" class="land-path" data-country-id="Ethiopia" d="Ethiopia" />
+    <text id="Ethiopia_label" class="map-label" x="535.27" y="Arial"><tspan x="535.27" y="Arial">ETHIOPIA</tspan></text>
+  </g>
+  <g id="g3480">
+    <path id="Liberia" class="land-path" data-country-id="Liberia" d="Liberia" />
+    <text id="Liberia_label" class="map-label" x="413.48" y="Arial"><tspan x="413.48" y="Arial">LIBERIA</tspan></text>
+  </g>
+  <g id="g3387">
+    <path id="Equatorial_Guinea" class="land-path" data-country-id="Equatorial_Guinea" d="Equatorial_Guinea" />
+    <text id="Equatorial_Guinea_label" class="map-label" x="455.1" y="Arial"><tspan x="455.1" y="Arial">EQ. GUINEA</tspan></text>
+  </g>
+  <g id="g3419">
+    <path id="Rwanda" class="land-path" data-country-id="Rwanda" d="Rwanda" />
+    <text id="Rwanda_label" class="map-label" x="513.74" y="Arial"><tspan x="513.74" y="Arial">RWANDA</tspan></text>
+  </g>
+  <g id="g3398">
+    <path id="Central_African_Republic" class="land-path" data-country-id="Central_African_Republic" d="Central_African_Republic" />
+    <text
+       xml:space="preserve"
+       id="Central_African_Republic_label"
+       x="499.51"
+       y="276.4"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".31"
+       font-family="Arial"
+       font-size="2.49"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:95%;-inkscape-font-specification:Arial;text-align:center"
+       text-anchor="middle"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan6602"
+         x="499.51"
+         y="276.4"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".31"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="line-height:95%;-inkscape-font-specification:Arial">CENTRAL AFRICAN</tspan><tspan
+         id="tspan43785"
+         x="499.51"
+         y="278.77">REPUBLIC</tspan></text>
+  </g>
+  <g id="g3444">
+    <path id="Chad" class="land-path" data-country-id="Chad" d="Chad" />
+    <text id="Chad_label" class="map-label" x="487.89" y="Arial"><tspan x="487.89" y="Arial">CHAD</tspan></text>
+  </g>
+  <g id="g3522">
+    <path id="Niger" class="land-path" data-country-id="Niger" d="Niger" />
+    <text id="Niger_label" class="map-label" x="465.18" y="Arial"><tspan x="465.18" y="Arial">NIGER</tspan></text>
+  </g>
+  <g id="g3454">
+    <path id="Nigeria" class="land-path" data-country-id="Nigeria" d="Nigeria" />
+    <text id="Nigeria_label" class="map-label" x="457.17" y="Arial"><tspan x="457.17" y="Arial">NIGERIA</tspan></text>
+  </g>
+  <g id="g3337">
+    <path id="Namibia" class="land-path" data-country-id="Namibia" d="Namibia" />
+    <text id="Namibia_label" class="map-label" x="482.33" y="Arial"><tspan x="482.33" y="Arial">NAMIBIA</tspan></text>
+  </g>
+  <g id="g3517">
+    <path id="Burkina_Faso" class="land-path" data-country-id="Burkina_Faso" d="Burkina_Faso" />
+    <text
+       xml:space="preserve"
+       id="Burkina_Faso_label"
+       x="442.75"
+       y="263.21"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".28"
+       font-family="Arial"
+       font-size="2.23"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:95%;-inkscape-font-specification:Arial;text-align:center"
+       text-anchor="middle"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan6690"
+         x="442.75"
+         y="263.21"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".28"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="line-height:95%;-inkscape-font-specification:Arial">BURKINA</tspan><tspan
+         id="tspan40489"
+         x="442.75"
+         y="265.33">FASO</tspan></text>
+  </g>
+  <g id="g3409">
+    <path id="Tanzania" class="land-path" data-country-id="Tanzania" d="Tanzania" />
+    <text id="Tanzania_label" class="map-label" x="524.65" y="Arial"><tspan x="524.65" y="Arial">TANZANIA</tspan></text>
+  </g>
+  <g id="g3459">
+    <path id="Benin" class="land-path" data-country-id="Benin" d="Benin" />
+    <text id="Benin_label" class="map-label" x="-29.77" y="Arial"><tspan x="-29.77" y="Arial">BENIN</tspan></text>
+  </g>
+  <g id="g3533">
+    <path id="Western_Sahara" class="land-path" data-country-id="Western_Sahara" d="Western_Sahara" />
+    <text
+       xml:space="preserve"
+       id="Western_Sahara_label"
+       x="392.06"
+       y="227.6"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".47"
+       font-family="Arial"
+       font-size="3.77"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:95%;-inkscape-font-specification:Arial;text-align:start"
+       text-anchor="start"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan6774"
+         x="392.06"
+         y="227.6"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".47"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="line-height:95%;-inkscape-font-specification:Arial">WESTERN</tspan><tspan
+         id="tspan7032"
+         x="392.06"
+         y="231.19">SAHARA</tspan></text>
+  </g>
+  <g id="g3491">
+    <path id="Guinea" class="land-path" data-country-id="Guinea" d="Guinea" />
+    <text id="Guinea_label" class="map-label" x="412.94" y="Arial"><tspan x="412.94" y="Arial">GUINEA</tspan></text>
+  </g>
+  <g id="g3501">
+    <path id="Gambia" class="land-path" data-country-id="Gambia" d="Gambia" />
+    <text id="Gambia_label" class="map-label" x="390.64" y="Arial"><tspan x="390.64" y="Arial">THE GAMBIA</tspan></text>
+  </g>
+  <g id="g3506">
+    <path id="Senegal" class="land-path" data-country-id="Senegal" d="Senegal" />
+    <text id="Senegal_label" class="map-label" x="479.54" y="Arial"><tspan x="479.54" y="Arial">SENEGAL</tspan></text>
+  </g>
+  <g id="g3486">
+    <path id="Sierra_Leone" class="land-path" data-country-id="Sierra_Leone" d="Sierra_Leone" />
+    <text
+       xml:space="preserve"
+       id="Sierra_Leone_label"
+       x="414.99"
+       y="273.9"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".26"
+       font-family="Arial"
+       font-size="2.04"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:95%;-inkscape-font-specification:Arial;text-align:end"
+       text-anchor="end"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan6852"
+         x="414.99"
+         y="273.9"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".26"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial">SIERRA</tspan><tspan
+         id="tspan5399"
+         x="414.99"
+         y="275.83">LEONE</tspan></text>
+  </g>
+  <g id="g3464">
+    <path id="Togo" class="land-path" data-country-id="Togo" d="Togo" />
+    <text id="Togo_label" class="map-label" x="-20.99" y="Arial"><tspan x="-20.99" y="Arial">TOGO</tspan></text>
+  </g>
+  <g id="g3357">
+    <path id="Malawi" class="land-path" data-country-id="Malawi" d="Malawi" />
+    <text id="Malawi_label" class="map-label" x="525.04" y="Arial"><tspan x="525.04" y="Arial">MALAWI</tspan></text>
+  </g>
+  <g id="g3881">
+    <path id="Afghanistan" class="land-path" data-country-id="Afghanistan" d="Afghanistan" />
+    <text id="Afghanistan_label" class="map-label" x="425.92" y="Arial"><tspan x="425.92" y="Arial">AFGHANISTAN</tspan></text>
+  </g>
+  <g id="g3604">
+    <path id="Israel" class="land-path" data-country-id="Israel" d="Israel" />
+    <text id="Israel_label" class="map-label" x="527.88" y="Arial"><tspan x="527.88" y="Arial">ISRAEL</tspan></text>
+  </g>
+  <g id="g4011">
+    <path id="Sri_Lanka" class="land-path" data-country-id="Sri_Lanka" d="Sri_Lanka" />
+    <text id="Sri_Lanka_label" class="map-label" x="649.69" y="Arial"><tspan x="649.69" y="Arial">SRI LANKA</tspan></text>
+  </g>
+  <g id="g3610">
+    <path id="Palestinian_Territories" class="land-path" data-country-id="Palestinian_Territories" d="Palestinian_Territories" />
+    <text
+       xml:space="preserve"
+       id="Palestinian_Territories_label"
+       x="534.7"
+       y="208"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".11"
+       font-family="Arial"
+       font-size=".9"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="0"
+       style="line-height:90%;-inkscape-font-specification:Arial;text-align:end"
+       text-anchor="end"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan7332"
+         x="534.7"
+         y="208"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".11"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial;text-align:end"
+         text-anchor="end">PALESTINIAN</tspan><tspan
+         id="tspan42136"
+         x="534.7"
+         y="208.81"
+         style="stroke-width:.107278">TERRIT.</tspan></text>
+  </g>
+  <g id="g3630">
+    <path id="Iran" class="land-path" data-country-id="Iran" d="Iran" />
+    <text id="Iran_label" class="map-label" x="575.94" y="Arial"><tspan x="575.94" y="Arial">IRAN</tspan></text>
+  </g>
+  <g id="g3991">
+    <path id="North_Korea" class="land-path" data-country-id="North_Korea" d="North_Korea" />
+    <text id="North_Korea_label" class="map-label" x="761.41" y="Arial"><tspan x="761.41" y="Arial">NORTH KOREA</tspan></text>
+  </g>
+  <g id="g3548">
+    <path id="Tunisia" class="land-path" data-country-id="Tunisia" d="Tunisia" />
+    <text id="Tunisia_label" class="map-label" x="468.6" y="Arial"><tspan x="468.6" y="Arial">TUNISIA</tspan></text>
+  </g>
+  <g id="g3906">
+    <path id="Nepal" class="land-path" data-country-id="Nepal" d="Nepal" />
+    <text id="Nepal_label" class="map-label" x="681.8" y="Arial"><tspan x="681.8" y="Arial">NEPAL</tspan></text>
+  </g>
+  <g id="g3876">
+    <path id="Turkmenistan" class="land-path" data-country-id="Turkmenistan" d="Turkmenistan" />
+    <text id="Turkmenistan_label" class="map-label" x="582.32" y="Arial"><tspan x="582.32" y="Arial">TURKMENISTAN</tspan></text>
+  </g>
+  <g id="g3971">
+    <path id="Taiwan" class="land-path" data-country-id="Taiwan" d="Taiwan" />
+    <text id="Taiwan_label" class="map-label" x="750.65" y="Arial"><tspan x="750.65" y="Arial">TAIWAN</tspan></text>
+  </g>
+  <g id="g3901">
+    <path id="India" class="land-path" data-country-id="India" d="India" />
+    <text id="India_label" class="map-label" x="637.58" y="Arial"><tspan x="637.58" y="Arial">INDIA</tspan></text>
+  </g>
+  <g id="g3886">
+    <path id="Kyrgyzstan" class="land-path" data-country-id="Kyrgyzstan" d="Kyrgyzstan" />
+    <text id="Kyrgyzstan_label" class="map-label" x="626.51" y="Arial"><tspan x="626.51" y="Arial">KYRGYZSTAN</tspan></text>
+  </g>
+  <g id="g3625">
+    <path id="Iraq" class="land-path" data-country-id="Iraq" d="Iraq" />
+    <text id="Iraq_label" class="map-label" x="550.65" y="Arial"><tspan x="550.65" y="Arial">IRAQ</tspan></text>
+  </g>
+  <g id="g3931">
+    <path id="Thailand" class="land-path" data-country-id="Thailand" d="Thailand" />
+    <text id="Thailand_label" class="map-label" x="694.13" y="Arial"><tspan x="694.13" y="Arial">THAILAND</tspan></text>
+  </g>
+  <g id="g3871">
+    <path id="Uzbekistan" class="land-path" data-country-id="Uzbekistan" d="Uzbekistan" />
+    <text id="Uzbekistan_label" class="map-label" x="603.14" y="Arial"><tspan x="603.14" y="Arial">UZBEKISTAN</tspan></text>
+  </g>
+  <g id="g4031">
+    <path id="Kazakhstan" class="land-path" data-country-id="Kazakhstan" d="Kazakhstan" />
+    <text id="Kazakhstan_label" class="map-label" x="599.04" y="Arial"><tspan x="599.04" y="Arial">KAZAKHSTAN</tspan></text>
+  </g>
+  <g id="g4001">
+    <path id="Mongolia" class="land-path" data-country-id="Mongolia" d="Mongolia" />
+    <text id="Mongolia_label" class="map-label" x="687.46" y="Arial"><tspan x="687.46" y="Arial">MONGOLIA</tspan></text>
+  </g>
+  <g id="g3599">
+    <path id="Jordan" class="land-path" data-country-id="Jordan" d="Jordan" />
+    <text id="Jordan_label" class="map-label" x="536.18" y="Arial"><tspan x="536.18" y="Arial">JORDAN</tspan></text>
+  </g>
+  <g id="g3620">
+    <path id="Syria" class="land-path" data-country-id="Syria" d="Syria" />
+    <text id="Syria_label" class="map-label" x="538.54" y="Arial"><tspan x="538.54" y="Arial">SYRIA</tspan></text>
+  </g>
+  <g id="g3568">
+    <path id="Oman" class="land-path" data-country-id="Oman" d="Oman" />
+    <text id="Oman_label" class="map-label" x="237.91" y="Arial"><tspan x="237.91" y="Arial">OMAN</tspan></text>
+  </g>
+  <g id="g3891">
+    <path id="Tajikistan" class="land-path" data-country-id="Tajikistan" d="Tajikistan" />
+    <text id="Tajikistan_label" class="map-label" x="619.09" y="Arial"><tspan x="619.09" y="Arial">TAJIKISTAN</tspan></text>
+  </g>
+  <g id="g3896">
+    <path id="Pakistan" class="land-path" data-country-id="Pakistan" d="Pakistan" />
+    <text id="Pakistan_label" class="map-label" x="604.73" y="Arial"><tspan x="604.73" y="Arial">PAKISTAN</tspan></text>
+  </g>
+  <g id="g3996">
+    <path id="Japan" class="land-path" data-country-id="Japan" d="Japan" />
+    <text id="Japan_label" class="map-label" x="800.54" y="Arial"><tspan x="800.54" y="Arial">JAPAN</tspan></text>
+  </g>
+  <g id="g3986">
+    <path id="South_Korea" class="land-path" data-country-id="South_Korea" d="South_Korea" />
+    <text id="South_Korea_label" class="map-label" x="763.53" y="Arial"><tspan x="763.53" y="Arial">SOUTH KOREA</tspan></text>
+  </g>
+  <g id="g3861">
+    <path id="Azerbaijan" class="land-path" data-country-id="Azerbaijan" d="Azerbaijan" />
+    <text id="Azerbaijan_label" class="map-label" x="563.17" y="Arial"><tspan x="563.17" y="Arial">AZERBAIJAN</tspan></text>
+  </g>
+  <g id="g4021">
+    <path id="Papua_New_Guinea" class="land-path" data-country-id="Papua_New_Guinea" d="Papua_New_Guinea" />
+    <text id="Papua_New_Guinea_label" class="map-label" x="799.33" y="Arial"><tspan x="799.33" y="Arial">PAPUA NEW GUINEA</tspan></text>
+  </g>
+  <g id="g3961">
+    <path id="Timor_Leste" class="land-path" data-country-id="Timor_Leste" d="Timor_Leste" />
+    <text id="Timor_Leste_label" class="map-label" x="761.26" y="Arial"><tspan x="761.26" y="Arial">TIMOR-LESTE</tspan></text>
+  </g>
+  <g id="g3936">
+    <path id="Cambodia" class="land-path" data-country-id="Cambodia" d="Cambodia" />
+    <text id="Cambodia_label" class="map-label" x="703.17" y="Arial"><tspan x="703.17" y="Arial">CAMBODIA</tspan></text>
+  </g>
+  <g id="g3926">
+    <path id="Laos" class="land-path" data-country-id="Laos" d="Laos" />
+    <text id="Laos_label" class="map-label" x="699.07" y="Arial"><tspan x="699.07" y="Arial">LAOS</tspan></text>
+  </g>
+  <g id="g3921">
+    <path id="Myanmar" class="land-path" data-country-id="Myanmar" d="Myanmar" />
+    <text id="Myanmar_label" class="map-label" x="680.58" y="Arial"><tspan x="680.58" y="Arial">MYANMAR</tspan></text>
+  </g>
+  <g id="g3916">
+    <path id="Bangladesh" class="land-path" data-country-id="Bangladesh" d="Bangladesh" />
+    <text id="Bangladesh_label" class="map-label" x="662.51" y="Arial"><tspan x="662.51" y="Arial">BANGLADESH</tspan></text>
+  </g>
+  <g id="g3856">
+    <path id="Georgia" class="land-path" data-country-id="Georgia" d="Georgia" />
+    <text id="Georgia_label" class="map-label" x="573.56" y="Arial"><tspan x="573.56" y="Arial">GEORGIA</tspan></text>
+  </g>
+  <g id="g3966">
+    <path id="Philippines" class="land-path" data-country-id="Philippines" d="Philippines" />
+    <text id="Philippines_label" class="map-label" x="758.59" y="Arial"><tspan x="758.59" y="Arial">PHILIPPINES</tspan></text>
+  </g>
+  <g id="g4026">
+    <path id="New_Zealand" class="land-path" data-country-id="New_Zealand" d="New_Zealand" />
+    <text id="New_Zealand_label" class="map-label" x="842.08" y="Arial"><tspan x="842.08" y="Arial">NEW ZEALAND</tspan></text>
+  </g>
+  <g id="g3589">
+    <path id="Bahrain" class="land-path" data-country-id="Bahrain" d="Bahrain" />
+    <text id="Bahrain_label" class="map-label" x="564.12" y="Arial"><tspan x="564.12" y="Arial">BAHRAIN</tspan></text>
+  </g>
+  <g id="g3574">
+    <path id="United_Arab_Emirates" class="land-path" data-country-id="United_Arab_Emirates" d="United_Arab_Emirates" />
+    <text
+       xml:space="preserve"
+       id="United_Arab_Emirates_label"
+       x="579.55"
+       y="232.97"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".2"
+       font-family="Arial"
+       font-size="1.7"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="-.13"
+       style="line-height:95%;-inkscape-font-specification:Arial;text-align:start"
+       text-anchor="start"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan1294"
+         x="579.55"
+         y="232.97"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".2"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         letter-spacing="-.13"
+         style="-inkscape-font-specification:Arial">UNITED ARAB</tspan><tspan
+         id="tspan27371"
+         x="579.55"
+         y="234.59">EMIRATES</tspan></text>
+  </g>
+  <g id="g3579">
+    <path id="Qatar" class="land-path" data-country-id="Qatar" d="Qatar" />
+    <text id="Qatar_label" class="map-label" x="576.66" y="Arial"><tspan x="576.66" y="Arial">QATAR</tspan></text>
+  </g>
+  <g id="g3981">
+    <path id="China" class="land-path" data-country-id="China" d="China" />
+    <text id="China_label" class="map-label" x="679.88" y="Arial"><tspan x="679.88" y="Arial">CHINA</tspan></text>
+  </g>
+  <g id="g3739">
+    <path id="Russia" class="land-path" data-country-id="Russia" d="Russia" />
+    <text id="Russia_label" class="map-label" x="656.83" y="Arial"><tspan x="656.83" y="Arial">RUSSIA</tspan></text>
+  </g>
+  <g id="g3976">
+    <path id="Hong_Kong" class="land-path" data-country-id="Hong_Kong" d="Hong_Kong" />
+    <text id="Hong_Kong_label" class="map-label" x="733.25" y="Arial"><tspan x="733.25" y="Arial">HONG KONG</tspan></text>
+  </g>
+  <g id="g3563">
+    <path id="Yemen" class="land-path" data-country-id="Yemen" d="Yemen" />
+    <text id="Yemen_label" class="map-label" x="561.65" y="Arial"><tspan x="561.65" y="Arial">YEMEN</tspan></text>
+  </g>
+  <g id="g3951">
+    <path id="Brunei" class="land-path" data-country-id="Brunei" d="Brunei" />
+    <text id="Brunei_label" class="map-label" x="724.2" y="Arial"><tspan x="724.2" y="Arial">BRUNEI</tspan></text>
+  </g>
+  <g id="g3946">
+    <path id="Malaysia" class="land-path" data-country-id="Malaysia" d="Malaysia" />
+    <text id="Malaysia_label" class="map-label" x="701.24" y="Arial"><tspan x="701.24" y="Arial">MALAYSIA</tspan></text>
+  </g>
+  <g id="g3615">
+    <path id="Lebanon" class="land-path" data-country-id="Lebanon" d="Lebanon" />
+    <text id="Lebanon_label" class="map-label" x="527.72" y="Arial"><tspan x="527.72" y="Arial">LEBANON</tspan></text>
+  </g>
+  <g id="g3594">
+    <path id="Kuwait" class="land-path" data-country-id="Kuwait" d="Kuwait" />
+    <text id="Kuwait_label" class="map-label" x="566.19" y="Arial"><tspan x="566.19" y="Arial">KUWAIT</tspan></text>
+  </g>
+  <g id="g3956">
+    <path id="Indonesia" class="land-path" data-country-id="Indonesia" d="Indonesia" />
+    <text id="Indonesia_label" class="map-label" x="717.24" y="Arial"><tspan x="717.24" y="Arial">INDONESIA</tspan></text>
+  </g>
+  <g id="g3941">
+    <path id="Vietnam" class="land-path" data-country-id="Vietnam" d="Vietnam" />
+    <text id="Vietnam_label" class="map-label" x="719.71" y="Arial"><tspan x="719.71" y="Arial">VIETNAM</tspan></text>
+  </g>
+  <g id="g3790">
+    <path id="North_Macedonia" class="land-path" data-country-id="North_Macedonia" d="North_Macedonia" />
+    <text
+       xml:space="preserve"
+       id="North_Macedonia_label"
+       x="502.11"
+       y="182.79"
+       fill="#6a0707"
+       stroke="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-width=".14"
+       font-family="Arial"
+       font-size="1.04"
+       font-stretch="normal"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="400"
+       letter-spacing="-.04"
+       style="line-height:80%;-inkscape-font-specification:Arial;text-align:center"
+       text-anchor="middle"
+       word-spacing="0"
+       writing-mode="lr-tb"><tspan
+         id="tspan5444-5"
+         x="502.11"
+         y="182.79"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".14"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial;text-align:center"
+         text-anchor="middle">NORTH </tspan><tspan
+         id="tspan5448-4"
+         x="502.09"
+         y="183.61"
+         fill="#6a0707"
+         fill-opacity="1"
+         stroke-width=".14"
+         font-family="Arial"
+         font-stretch="normal"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="400"
+         style="-inkscape-font-specification:Arial;text-align:center"
+         text-anchor="middle">MACEDONIA</tspan></text>
+  </g>
+  <g id="g3690">
+    <path id="Belgium" class="land-path" data-country-id="Belgium" d="Belgium" />
+    <text id="Belgium_label" class="map-label" x="455.97" y="Arial"><tspan x="455.97" y="Arial">BELGIUM</tspan></text>
+  </g>
+  <g id="g3826">
+    <path id="Slovenia" class="land-path" data-country-id="Slovenia" d="Slovenia" />
+    <text id="Slovenia_label" class="map-label" x="421.76" y="Arial"><tspan x="421.76" y="Arial">SLOVENIA</tspan></text>
+  </g>
+  <g id="g3414">
+    <path id="Burundi" class="land-path" data-country-id="Burundi" d="Burundi" />
+    <text id="Burundi_label" class="map-label" x="523.94" y="Arial"><tspan x="523.94" y="Arial">BURUNDI</tspan></text>
+  </g>
+  <g id="g4036">
+    <path id="Djibouti" class="land-path" data-country-id="Djibouti" d="Djibouti" />
+    <text id="Djibouti_label" class="map-label" x="555.78" y="Arial"><tspan x="555.78" y="Arial">DJIBOUTI</tspan></text>
+  </g>
+  <g id="g3449">
+    <path id="Eritrea" class="land-path" data-country-id="Eritrea" d="Eritrea" />
+    <text id="Eritrea_label" class="map-label" x="535.99" y="Arial"><tspan x="535.99" y="Arial">ERITREA</tspan></text>
+  </g>
+  <g id="g4006">
+    <path id="Singapore" class="land-path" data-country-id="Singapore" d="Singapore" />
+    <text id="Singapore_label" class="map-label" x="707.25" y="Arial"><tspan x="707.25" y="Arial">SINGAPORE</tspan></text>
+  </g>
+  <g id="g3213">
+    <path id="Paraguay" class="land-path" data-country-id="Paraguay" d="Paraguay" />
+    <text id="Paraguay_label" class="map-label" x="293.87" y="Arial"><tspan x="293.87" y="Arial">PARAGUAY</tspan></text>
+  </g>
+  <g id="g3911">
+    <path id="Bhutan" class="land-path" data-country-id="Bhutan" d="Bhutan" />
+    <text id="Bhutan_label" class="map-label" x="666.98" y="Arial"><tspan x="666.98" y="Arial">BHUTAN</tspan></text>
+  </g>
+  <g id="g3784">
+    <path id="Bulgaria" class="land-path" data-country-id="Bulgaria" d="Bulgaria" />
+    <text id="Bulgaria_label" class="map-label" x="505.26" y="Arial"><tspan x="505.26" y="Arial">BULGARIA</tspan></text>
+  </g>
+  <g id="Northern_Ireland_group">
+    <text id="Northern_Ireland_label" class="map-label" x="423.94" y="Arial"><tspan x="423.94" y="Arial">NORTHERN</tspan></text>
+    <path id="Northern_Ireland" class="land-path" data-country-id="Northern_Ireland" d="Northern_Ireland" />
+  </g>
+  <g id="Wales_group">
+    <text id="Wales_label" class="map-label" x="428.14" y="Arial"><tspan x="428.14" y="Arial">WALES</tspan></text>
+    <path id="Wales" class="land-path" data-country-id="Wales" d="Wales" />
+  </g>
+  <g id="Scotland_group">
+    <text id="Scotland_label" class="map-label" x="441.76" y="Arial"><tspan x="441.76" y="Arial">SCOTLAND</tspan></text>
+    <path id="Scotland" class="land-path" data-country-id="Scotland" d="Scotland" />
+  </g>
+  <g id="England_group">
+    <path id="England" class="land-path" data-country-id="England" d="England" />
+    <text id="England_label" class="map-label" x="441.11" y="Arial"><tspan x="441.11" y="Arial">ENGLAND</tspan></text>
+  </g>
+  <g id="city_labels">
+    <circle id="circle26" class="land-circle" cx="636.36" cy="264.73" r=".28" />
+    <text
+       id="text28"
+       x="631.08"
+       y="264.45"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Kozhikode</text>
+    <circle id="circle30" class="land-circle" cx="661.36" cy="241.72" r=".28" />
+    <text
+       id="text32"
+       x="661.68"
+       y="241.05"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Bhubaneshwar</text>
+    <circle id="circle34" class="land-circle" cx="662.28" cy="235.17" r=".28" />
+    <text
+       id="text36"
+       x="662.6"
+       y="234.49"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Jamshedpur</text>
+    <circle id="circle38" class="land-circle" cx="308.42" cy="383.19" r=".28" />
+    <text
+       id="text40"
+       x="308.96"
+       y="385.27"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Montevideo</text>
+    <circle id="circle42" class="land-circle" cx="144.5" cy="196.09" r=".28" />
+    <text
+       id="text44"
+       x="144.85"
+       y="197.62"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">San Jose</text>
+    <circle id="circle46" class="land-circle" cx="145.46" cy="192.41" r=".28" />
+    <text
+       id="text48"
+       x="145.53"
+       y="191.76"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Sacramento</text>
+    <circle id="circle50" class="land-circle" cx="161.63" cy="199.43" r=".28" />
+    <text
+       id="text52"
+       x="161.72"
+       y="198.77"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Las Vegas</text>
+    <circle id="circle54" class="land-circle" cx="142.89" cy="172.04" r=".28" />
+    <text
+       id="text56"
+       x="142.96"
+       y="171.39"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Portland</text>
+    <circle id="circle58" class="land-circle" cx="169.94" cy="186.72" r=".28" />
+    <text
+       id="text60"
+       x="170.03"
+       y="186.07"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Salt Lake City</text>
+    <circle id="circle62" class="land-circle" cx="205.84" cy="201.99" r=".28" />
+    <text
+       id="text64"
+       x="205.94"
+       y="201.33"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Oklahoma City</text>
+    <circle id="circle66" class="land-circle" cx="203.17" cy="217.96" r=".28" />
+    <text
+       id="text68"
+       x="203.27"
+       y="217.29"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">San Antonio</text>
+    <circle id="circle70" class="land-circle" cx="279.07" cy="267.3" r=".28" />
+    <text
+       id="text72"
+       x="279.5"
+       y="269.03"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Valencia</text>
+    <circle id="circle74" class="land-circle" cx="245.24" cy="184.03" r=".28" />
+    <text
+       id="text76"
+       x="245.35"
+       y="183.38"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Cleveland</text>
+    <circle id="circle78" class="land-circle" cx="237.98" cy="190.8" r=".28" />
+    <text
+       id="text80"
+       x="238.09"
+       y="190.14"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Cincinnati</text>
+    <circle id="circle82" class="land-circle" cx="232.34" cy="199.13" r=".28" />
+    <text
+       id="text84"
+       x="232.45"
+       y="198.47"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Nashville</text>
+    <circle id="circle86" class="land-circle" cx="224.28" cy="202.49" r=".28" />
+    <text
+       id="text88"
+       x="224.38"
+       y="201.84"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Memphis</text>
+    <circle id="circle90" class="land-circle" cx="229.44" cy="179.09" r=".28" />
+    <text
+       id="text92"
+       x="229.54"
+       y="178.44"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Milwaukee</text>
+    <circle id="circle94" class="land-circle" cx="252.1" cy="179.58" r=".28" />
+    <text
+       id="text96"
+       x="252.22"
+       y="178.93"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Buffalo</text>
+    <circle id="circle98" class="land-circle" cx="249.22" cy="187.06" r=".28" />
+    <text
+       id="text100"
+       x="249.34"
+       y="186.41"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Pittsburgh</text>
+    <circle id="circle102" class="land-circle" cx="451.08" cy="277.56" r=".28" />
+    <text
+       id="text104"
+       x="451.41"
+       y="279.51"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Lomé</text>
+    <circle id="circle106" class="land-circle" cx="518.33" cy="331.49" r=".28" />
+    <text
+       id="text108"
+       x="518.58"
+       y="330.77"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Lusaka</text>
+    <circle id="circle110" class="land-circle" cx="525.19" cy="337.63" r=".28" />
+    <text
+       id="text112"
+       x="525.45"
+       y="336.9"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Harare</text>
+    <circle id="circle114" class="land-circle" cx="231.25" cy="257.53" r=".28" />
+    <text
+       id="text116"
+       x="232.25"
+       y="256.9"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Tegucigalpa</text>
+    <circle id="circle118" class="land-circle" cx="268.24" cy="246.19" r=".28" />
+    <text
+       id="text120"
+       x="268.37"
+       y="245.51"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Port-au-Prince</text>
+    <circle id="circle122" class="land-circle" cx="437.46" cy="137.11" r=".28" />
+    <text
+       id="text124"
+       x="437.68"
+       y="136.48"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Glasgow</text>
+    <circle id="circle126" class="land-circle" cx="529.02" cy="292.05" r=".28" />
+    <text
+       id="text128"
+       x="529.27"
+       y="291.35"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Kampala</text>
+    <circle id="circle130" class="land-circle" cx="453.3" cy="259.01" r=".28" />
+    <text
+       id="text132"
+       x="453.51"
+       y="258.32"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Niamey</text>
+    <circle id="circle134" class="land-circle" cx="304.76" cy="357.12" r=".28" />
+    <text
+       id="text136"
+       x="304.91"
+       y="356.39"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Asunción</text>
+    <circle id="circle138" class="land-circle" cx="233.62" cy="262.45" r=".28" />
+    <text
+       id="text140"
+       x="233.73"
+       y="261.77"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Managua</text>
+    <circle id="circle142" class="land-circle" cx="415.14" cy="271.71" r=".28" />
+    <text
+       id="text144"
+       x="415.34"
+       y="271.02"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Freetown</text>
+    <circle id="circle146" class="land-circle" cx="629.89" cy="205.72" r=".28" />
+    <text
+       id="text148"
+       x="630.33"
+       y="207.34"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Islamabad</text>
+    <circle id="circle150" class="land-circle" cx="625.64" cy="215.37" r=".28" />
+    <text
+       id="text152"
+       x="625.94"
+       y="214.71"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Multan</text>
+    <circle id="circle154" class="land-circle" cx="617.98" cy="228.33" r=".28" />
+    <text
+       id="text156"
+       x="618.28"
+       y="227.66"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Hyderabad</text>
+    <circle id="circle158" class="land-circle" cx="625.83" cy="204.86" r=".28" />
+    <text
+       id="text160"
+       x="626.13"
+       y="204.21"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Peshawar</text>
+    <circle id="circle162" class="land-circle" cx="660.08" cy="222.09" r=".28" />
+    <text
+       id="text164"
+       x="661.25"
+       y="223.97"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Kathmandu</text>
+    <circle id="circle166" class="land-circle" cx="518.2" cy="358.21" r=".28" />
+    <text
+       id="text168"
+       x="518.45"
+       y="357.48"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Pretoria</text>
+    <circle id="circle170" class="land-circle" cx="250.36" cy="270.47" r=".28" />
+    <text
+       id="text172"
+       x="250.48"
+       y="269.78"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Panama City</text>
+    <circle id="circle174" class="land-circle" cx="435.6" cy="204.73" r=".28" />
+    <text
+       id="text176"
+       x="435.81"
+       y="204.07"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Fez</text>
+    <circle id="circle178" class="land-circle" cx="431.05" cy="204.82" r=".28" />
+    <text
+       id="text180"
+       x="431.26"
+       y="204.16"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Rabat</text>
+    <circle id="circle182" class="land-circle" cx="428.15" cy="211.45" r=".28" />
+    <text
+       id="text184"
+       x="428.35"
+       y="210.79"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Marrakesh</text>
+    <circle id="circle186" class="land-circle" cx="511.66" cy="380.71" r=".28" />
+    <text
+       id="text188"
+       x="511.91"
+       y="379.97"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Port Elizabeth</text>
+    <circle id="circle190" class="land-circle" cx="529.04" cy="358.87" r=".28" />
+    <text
+       id="text192"
+       x="529.29"
+       y="358.14"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Maputo</text>
+    <circle id="circle194" class="land-circle" cx="557.4" cy="135.5" r=".28" />
+    <text
+       id="text196"
+       x="557.66"
+       y="134.88"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Nizhny Novgorod</text>
+    <circle id="circle198" class="land-circle" cx="558.64" cy="161.06" r=".28" />
+    <text
+       id="text200"
+       x="558.91"
+       y="160.42"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Volgograd</text>
+    <circle id="circle202" class="land-circle" cx="587.32" cy="140.88" r=".28" />
+    <text
+       id="text204"
+       x="587.6"
+       y="140.25"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Ufa</text>
+    <circle id="circle206" class="land-circle" cx="598.66" cy="133.67" r=".28" />
+    <text
+       id="text208"
+       x="598.95"
+       y="133.05"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Yekaterinburg</text>
+    <circle id="circle210" class="land-circle" cx="572.68" cy="146.32" r=".28" />
+    <text
+       id="text212"
+       x="572.95"
+       y="145.69"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Samara</text>
+    <circle id="circle214" class="land-circle" cx="570.13" cy="137.55" r=".28" />
+    <text
+       id="text216"
+       x="570.42"
+       y="136.92"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Kazan</text>
+    <circle id="circle218" class="land-circle" cx="654.23" cy="140.05" r=".28" />
+    <text
+       id="text220"
+       x="654.54"
+       y="139.41"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Novosibirsk</text>
+    <circle id="circle222" class="land-circle" cx="560.79" cy="287.69" r=".28" />
+    <text
+       id="text224"
+       x="561.06"
+       y="286.99"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Mogadishu</text>
+    <circle id="circle226" class="land-circle" cx="755.98" cy="267.08" r=".28" />
+    <text
+       id="text228"
+       x="756.35"
+       y="266.39"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Cebu</text>
+    <circle id="circle230" class="land-circle" cx="760.29" cy="275.12" r=".28" />
+    <text
+       id="text232"
+       x="760.66"
+       y="274.43"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Davao</text>
+    <circle id="circle234" class="land-circle" cx="678.85" cy="136.61" r=".28" />
+    <text
+       id="text236"
+       x="679.18"
+       y="135.99"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Krasnoyarsk</text>
+    <circle id="circle238" class="land-circle" cx="157.03" cy="209.05" r=".28" />
+    <text
+       id="text240"
+       x="157.21"
+       y="210.67"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Tijuana</text>
+    <circle id="circle242" class="land-circle" cx="184.36" cy="219.59" r=".28" />
+    <text
+       id="text244"
+       x="184.45"
+       y="218.92"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Chihuahua</text>
+    <circle id="circle246" class="land-circle" cx="225.3" cy="239.92" r=".28" />
+    <text
+       id="text248"
+       x="225.41"
+       y="239.24"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Mérida</text>
+    <circle id="circle250" class="land-circle" cx="587.84" cy="129.56" r=".28" />
+    <text
+       id="text252"
+       x="588.12"
+       y="128.93"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Perm</text>
+    <circle id="circle254" class="land-circle" cx="713.77" cy="163.58" r=".28" />
+    <text
+       id="text256"
+       x="714.12"
+       y="162.95"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Ulaanbaatar</text>
+    <circle id="circle258" class="land-circle" cx="447.04" cy="189.21" r=".28" />
+    <text
+       id="text260"
+       x="447.24"
+       y="188.56"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Valencia</text>
+    <circle id="circle262" class="land-circle" cx="466.75" cy="270.17" r=".28" />
+    <text
+       id="text264"
+       x="466.99"
+       y="269.48"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Abuja</text>
+    <circle id="circle266" class="land-circle" cx="697.48" cy="295.23" r=".28" />
+    <text
+       id="text268"
+       x="697.81"
+       y="294.52"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Padang</text>
+    <circle id="circle270" class="land-circle" cx="481.22" cy="193.16" r=".28" />
+    <text
+       id="text272"
+       x="481.45"
+       y="192.5"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Palermo</text>
+    <circle id="circle274" class="land-circle" cx="537.35" cy="210.58" r=".28" />
+    <text
+       id="text276"
+       x="540.46"
+       y="212.64"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Amman</text>
+    <circle id="circle278" class="land-circle" cx="633.42" cy="179.16" r=".28" />
+    <text
+       id="text280"
+       x="633.72"
+       y="178.52"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Bishkek</text>
+    <circle id="circle282" class="land-circle" cx="700.99" cy="197.48" r=".28" />
+    <text
+       id="text284"
+       x="701.32"
+       y="196.82"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Xining</text>
+    <circle id="circle286" class="land-circle" cx="722.13" cy="228.59" r=".28" />
+    <text
+       id="text288"
+       x="722.48"
+       y="227.92"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Guilin</text>
+    <circle id="circle290" class="land-circle" cx="738.78" cy="208.69" r=".28" />
+    <text
+       id="text292"
+       x="739.14"
+       y="208.03"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Huainan</text>
+    <circle id="circle294" class="land-circle" cx="738.01" cy="233.63" r=".28" />
+    <text
+       id="text296"
+       x="738.37"
+       y="232.97"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Shantou</text>
+    <circle id="circle298" class="land-circle" cx="546.69" cy="302.89" r=".28" />
+    <text
+       id="text300"
+       x="546.95"
+       y="302.18"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Mombasa</text>
+    <circle id="circle302" class="land-circle" cx="566.13" cy="340.46" r=".28" />
+    <text
+       id="text304"
+       x="566.4"
+       y="339.73"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Antananarivo</text>
+    <circle id="circle306" class="land-circle" cx="722.48" cy="310.2" r=".28" />
+    <text
+       id="text308"
+       x="722.81"
+       y="311.97"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Semarang</text>
+    <circle id="circle310" class="land-circle" cx="708.39" cy="300.25" r=".28" />
+    <text
+       id="text312"
+       x="708.74"
+       y="299.55"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Palembang</text>
+    <circle id="circle314" class="land-circle" cx="745.06" cy="305.66" r=".28" />
+    <text
+       id="text316"
+       x="745.42"
+       y="304.96"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Ujungpandang</text>
+    <circle id="circle318" class="land-circle" cx="460.04" cy="170.32" r=".28" />
+    <text
+       id="text320"
+       x="460.26"
+       y="169.68"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Lyon</text>
+    <circle id="circle322" class="land-circle" cx="252.93" cy="293.37" r=".28" />
+    <text
+       id="text324"
+       x="253.05"
+       y="292.67"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Quito</text>
+    <circle id="circle326" class="land-circle" cx="239.04" cy="268.04" r=".28" />
+    <text
+       id="text328"
+       x="239.15"
+       y="267.35"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">San José</text>
+    <circle id="circle330" class="land-circle" cx="226.32" cy="258.51" r=".28" />
+    <text
+       id="text332"
+       x="223.17"
+       y="260.68"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">San Salvador</text>
+    <circle id="circle334" class="land-circle" cx="260.35" cy="266.87" r=".28" />
+    <text
+       id="text336"
+       x="260.46"
+       y="266.17"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Cartagena</text>
+    <circle id="circle338" class="land-circle" cx="485.43" cy="262.55" r=".28" />
+    <text
+       id="text340"
+       x="485.67"
+       y="261.87"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Ndjamena</text>
+    <circle id="circle342" class="land-circle" cx="712.18" cy="192.17" r=".28" />
+    <text
+       id="text344"
+       x="712.52"
+       y="191.52"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Yinchuan</text>
+    <circle id="circle346" class="land-circle" cx="731" cy="222.35" r=".28" />
+    <text
+       id="text348"
+       x="731.59"
+       y="224.16"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Pingxiang</text>
+    <circle id="circle350" class="land-circle" cx="756.21" cy="165.39" r=".28" />
+    <text
+       id="text352"
+       x="756.57"
+       y="164.76"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Qiqihar</text>
+    <circle id="circle354" class="land-circle" cx="516.33" cy="322.03" r=".28" />
+    <text
+       id="text356"
+       x="516.58"
+       y="321.31"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Lubumbashi</text>
+    <circle id="circle358" class="land-circle" cx="223.03" cy="256.2" r=".28" />
+    <text
+       id="text360"
+       x="221.75"
+       y="255.47"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Guatemala</text>
+    <circle id="circle362" class="land-circle" cx="655.09" cy="248.27" r=".28" />
+    <text
+       id="text364"
+       x="655.41"
+       y="247.59"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Vishakhapatnam</text>
+    <circle id="circle366" class="land-circle" cx="270.03" cy="378.13" r=".28" />
+    <text
+       id="text368"
+       x="267.47"
+       y="377.36"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Valparaíso</text>
+    <circle id="circle370" class="land-circle" cx="428.15" cy="261.2" r=".28" />
+    <text
+       id="text372"
+       x="428.35"
+       y="260.51"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Bamako</text>
+    <circle id="circle374" class="land-circle" cx="497.91" cy="210.12" r=".28" />
+    <text
+       id="text376"
+       x="498.15"
+       y="209.46"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Banghazi</text>
+    <circle id="circle378" class="land-circle" cx="504.91" cy="185.65" r=".28" />
+    <text
+       id="text380"
+       x="505.15"
+       y="185"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Thessaloniki</text>
+    <circle id="circle382" class="land-circle" cx="536.29" cy="205.24" r=".28" />
+    <text
+       id="text384"
+       x="535.56"
+       y="204.65"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Beirut</text>
+    <circle id="circle386" class="land-circle" cx="559.36" cy="182.61" r=".28" />
+    <text
+       id="text388"
+       x="559.63"
+       y="181.96"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Tbilisi</text>
+    <circle id="circle390" class="land-circle" cx="639.2" cy="177.81" r=".28" />
+    <text
+       id="text392"
+       x="639.52"
+       y="177.16"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Almaty</text>
+    <circle id="circle394" class="land-circle" cx="576.54" cy="208.5" r=".28" />
+    <text
+       id="text396"
+       x="576.81"
+       y="207.84"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Isfahan</text>
+    <circle id="circle398" class="land-circle" cx="578.7" cy="216.92" r=".28" />
+    <text
+       id="text400"
+       x="578.98"
+       y="216.25"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Shiraz</text>
+    <circle id="circle402" class="land-circle" cx="634.12" cy="211.43" r=".28" />
+    <text
+       id="text404"
+       x="638.55"
+       y="210.8"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Amritsar</text>
+    <circle id="circle406" class="land-circle" cx="654.33" cy="228.47" r=".28" />
+    <text
+       id="text408"
+       x="654.64"
+       y="227.8"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Varanasi</text>
+    <circle id="circle410" class="land-circle" cx="664.23" cy="232.81" r=".28" />
+    <text
+       id="text412"
+       x="664.54"
+       y="232.14"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Asansol</text>
+    <circle id="circle414" class="land-circle" cx="650.44" cy="239.26" r=".28" />
+    <text
+       id="text416"
+       x="650.74"
+       y="238.58"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Bhilai</text>
+    <circle id="circle418" class="land-circle" cx="640.44" cy="233.94" r=".28" />
+    <text
+       id="text420"
+       x="640.75"
+       y="233.27"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Bhopal</text>
+    <circle id="circle422" class="land-circle" cx="642.2" cy="268.08" r=".28" />
+    <text
+       id="text424"
+       x="642.51"
+       y="267.39"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Madurai</text>
+    <circle id="circle426" class="land-circle" cx="639.29" cy="265.36" r=".28" />
+    <text
+       id="text428"
+       x="642.24"
+       y="264.78"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Coimbatore</text>
+    <circle id="circle430" class="land-circle" cx="486.03" cy="303.44" r=".28" />
+    <text
+       id="text432"
+       x="486.26"
+       y="302.73"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Brazzaville</text>
+    <circle id="circle434" class="land-circle" cx="414.03" cy="269.05" r=".28" />
+    <text
+       id="text436"
+       x="414.23"
+       y="268.36"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Conakry</text>
+    <circle id="circle438" class="land-circle" cx="298.91" cy="300.56" r=".28" />
+    <text
+       id="text440"
+       x="299.05"
+       y="299.85"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Manaus</text>
+    <circle id="circle442" class="land-circle" cx="312.29" cy="344.42" r=".28" />
+    <text
+       id="text444"
+       x="312.44"
+       y="343.69"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Campo Grande</text>
+    <circle id="circle446" class="land-circle" cx="327.43" cy="363.22" r=".28" />
+    <text
+       id="text448"
+       x="327.59"
+       y="362.48"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Florianópolis</text>
+    <circle id="circle450" class="land-circle" cx="164.49" cy="153.36" r=".28" />
+    <text
+       id="text452"
+       x="164.57"
+       y="152.73"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Calgary</text>
+    <circle id="circle454" class="land-circle" cx="260.11" cy="172.17" r=".28" />
+    <text
+       id="text456"
+       x="260.22"
+       y="173.83"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Ottawa</text>
+    <circle id="circle458" class="land-circle" cx="498.91" cy="173.25" r=".28" />
+    <text
+       id="text460"
+       x="499.15"
+       y="172.62"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Belgrade</text>
+    <circle id="circle462" class="land-circle" cx="276.99" cy="377.68" r=".28" />
+    <text
+       id="text464"
+       x="277.12"
+       y="376.94"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Mendoza</text>
+    <circle id="circle466" class="land-circle" cx="288.5" cy="373.59" r=".28" />
+    <text
+       id="text468"
+       x="288.64"
+       y="372.85"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Córdoba</text>
+    <circle id="circle470" class="land-circle" cx="476.65" cy="283.22" r=".28" />
+    <text
+       id="text472"
+       x="476.88"
+       y="282.52"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Yaounde</text>
+    <circle id="circle474" class="land-circle" cx="558.67" cy="187.18" r=".28" />
+    <text
+       id="text476"
+       x="558.94"
+       y="186.53"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Yerevan</text>
+    <circle id="circle478" class="land-circle" cx="571.96" cy="186.54" r=".28" />
+    <text
+       id="text480"
+       x="572.24"
+       y="185.89"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Baku</text>
+    <circle id="circle482" class="land-circle" cx="708.8" cy="263.98" r=".28" />
+    <text
+       id="text484"
+       x="709.14"
+       y="263.29"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Phnom Penh</text>
+    <circle id="circle486" class="land-circle" cx="487.2" cy="324.72" r=".28" />
+    <text
+       id="text488"
+       x="487.44"
+       y="324"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Huambo</text>
+    <circle id="circle490" class="land-circle" cx="278.65" cy="334.25" r=".28" />
+    <text
+       id="text492"
+       x="278.78"
+       y="333.53"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">La Paz</text>
+    <circle id="circle494" class="land-circle" cx="290.88" cy="337.47" r=".28" />
+    <text
+       id="text496"
+       x="291.02"
+       y="336.74"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Santa Cruz</text>
+    <circle id="circle498" class="land-circle" cx="446.49" cy="200.06" r=".28" />
+    <text
+       id="text500"
+       x="446.71"
+       y="199.4"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Oran</text>
+    <circle id="circle502" class="land-circle" cx="454.29" cy="276.9" r=".28" />
+    <text
+       id="text504"
+       x="454.51"
+       y="276.2"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Cotonou</text>
+    <circle id="circle506" class="land-circle" cx="505.99" cy="179.74" r=".28" />
+    <text
+       id="text508"
+       x="506.23"
+       y="179.09"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Sofia</text>
+    <circle id="circle510" class="land-circle" cx="516.55" cy="143.93" r=".28" />
+    <text
+       id="text512"
+       x="516.8"
+       y="143.3"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Minsk</text>
+    <circle id="circle514" class="land-circle" cx="792.53" cy="383.42" r=".28" />
+    <text
+       id="text516"
+       x="792.91"
+       y="382.67"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Adelaide</text>
+    <circle id="circle518" class="land-circle" cx="828.4" cy="362.88" r=".28" />
+    <text
+       id="text520"
+       x="828.79"
+       y="362.14"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Brisbane</text>
+    <circle id="circle522" class="land-circle" cx="444.25" cy="261.9" r=".28" />
+    <text
+       id="text524"
+       x="444.46"
+       y="261.22"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Ouagadougou</text>
+    <circle id="circle526" class="land-circle" cx="686.94" cy="243.02" r=".28" />
+    <text
+       id="text528"
+       x="687.27"
+       y="242.35"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Naypyidaw</text>
+    <circle id="circle530" class="land-circle" cx="283.67" cy="246.45" r=".28" />
+    <text
+       id="text532"
+       x="283.81"
+       y="245.77"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">San Juan</text>
+    <circle id="circle534" class="land-circle" cx="746.96" cy="235.57" r=".28" />
+    <text
+       id="text536"
+       x="747.33"
+       y="234.9"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Kaohsiung</text>
+    <circle id="circle538" class="land-circle" cx="731.69" cy="235.77" r=".28" />
+    <text
+       id="text540"
+       x="727.06"
+       y="235.99"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Shenzhen</text>
+    <circle id="circle542" class="land-circle" cx="741.44" cy="196.96" r=".28" />
+    <text
+       id="text544"
+       x="741.8"
+       y="196.31"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Zibo</text>
+    <circle id="circle546" class="land-circle" cx="216.26" cy="172.75" r=".28" />
+    <text
+       id="text548"
+       x="216.36"
+       y="172.11"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Minneapolis</text>
+    <circle id="circle550" class="land-circle" cx="55.68" cy="239.03" r=".28" />
+    <text
+       id="text552"
+       x="55.71"
+       y="238.35"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Honolulu</text>
+    <circle id="circle554" class="land-circle" cx="143.82" cy="165.61" r=".28" />
+    <text
+       id="text556"
+       x="143.88"
+       y="164.97"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Seattle</text>
+    <circle id="circle558" class="land-circle" cx="169.48" cy="206.17" r=".28" />
+    <text
+       id="text560"
+       x="169.56"
+       y="205.51"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Phoenix</text>
+    <circle id="circle562" class="land-circle" cx="156.33" cy="208.07" r=".28" />
+    <text
+       id="text564"
+       x="156.4"
+       y="207.41"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">San Diego</text>
+    <circle id="circle566" class="land-circle" cx="223.74" cy="191.69" r=".28" />
+    <text
+       id="text568"
+       x="223.85"
+       y="191.04"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">St. Louis</text>
+    <circle id="circle570" class="land-circle" cx="224.04" cy="216.99" r=".28" />
+    <text
+       id="text572"
+       x="224.13"
+       y="216.33"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">New Orleans</text>
+    <circle id="circle574" class="land-circle" cx="207.31" cy="208.76" r=".28" />
+    <text
+       id="text576"
+       x="207.41"
+       y="208.1"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Dallas</text>
+    <circle id="circle578" class="land-circle" cx="269.92" cy="266.04" r=".28" />
+    <text
+       id="text580"
+       x="270.05"
+       y="265.36"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Maracaibo</text>
+    <circle id="circle582" class="land-circle" cx="271.95" cy="180.99" r=".28" />
+    <text
+       id="text584"
+       x="272.08"
+       y="180.34"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Boston</text>
+    <circle id="circle586" class="land-circle" cx="243.06" cy="222.35" r=".28" />
+    <text
+       id="text588"
+       x="243.17"
+       y="221.68"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Tampa</text>
+    <circle id="circle590" class="land-circle" cx="261.82" cy="188.19" r=".28" />
+    <text
+       id="text592"
+       x="261.95"
+       y="187.54"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Philadelphia</text>
+    <circle id="circle594" class="land-circle" cx="242.11" cy="181.15" r=".28" />
+    <text
+       id="text596"
+       x="242.23"
+       y="180.5"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Detroit</text>
+    <circle id="circle598" class="land-circle" cx="711.12" cy="239.74" r=".28" />
+    <text
+       id="text600"
+       x="711.46"
+       y="239.06"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Hanoi</text>
+    <circle id="circle602" class="land-circle" cx="713.22" cy="265.92" r=".28" />
+    <text
+       id="text604"
+       x="713.56"
+       y="265.23"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Ho Chi Minh City</text>
+    <circle id="circle606" class="land-circle" cx="529.72" cy="187.92" r=".28" />
+    <text
+       id="text608"
+       x="529.98"
+       y="187.27"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Ankara</text>
+    <circle id="circle610" class="land-circle" cx="495.47" cy="164.91" r=".28" />
+    <text
+       id="text612"
+       x="495.71"
+       y="164.27"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Budapest</text>
+    <circle id="circle614" class="land-circle" cx="557.91" cy="254.34" r=".28" />
+    <text
+       id="text616"
+       x="558.18"
+       y="253.65"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Sanaa</text>
+    <circle id="circle618" class="land-circle" cx="453.46" cy="183.62" r=".28" />
+    <text
+       id="text620"
+       x="453.68"
+       y="182.97"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Barcelona</text>
+    <circle id="circle622" class="land-circle" cx="512.9" cy="174.43" r=".28" />
+    <text
+       id="text624"
+       x="513.15"
+       y="173.78"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Bucharest</text>
+    <circle id="circle626" class="land-circle" cx="540.42" cy="198.59" r=".28" />
+    <text
+       id="text628"
+       x="540.68"
+       y="197.93"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Aleppo</text>
+    <circle id="circle630" class="land-circle" cx="538.26" cy="206.28" r=".28" />
+    <text
+       id="text632"
+       x="543.81"
+       y="206.02"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Damascus</text>
+    <circle id="circle634" class="land-circle" cx="469.29" cy="165.28" r=".28" />
+    <text
+       id="text636"
+       x="469.51"
+       y="164.65"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Zürich</text>
+    <circle id="circle638" class="land-circle" cx="425.3" cy="191.43" r=".28" />
+    <text
+       id="text640"
+       x="425.5"
+       y="190.78"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Lisbon</text>
+    <circle id="circle642" class="land-circle" cx="528.89" cy="253.74" r=".28" />
+    <text
+       id="text644"
+       x="529.15"
+       y="253.06"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Khartoum</text>
+    <circle id="circle646" class="land-circle" cx="545.51" cy="238.48" r=".28" />
+    <text
+       id="text648"
+       x="545.77"
+       y="237.8"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Jeddah</text>
+    <circle id="circle652" class="land-circle" cx="547" cy="238.7" r=".28" />
+    <text
+       id="text654"
+       x="548.55"
+       y="240.7"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Makkah</text>
+    <circle id="circle658" class="land-circle" cx="474.75" cy="122.54" r=".28" />
+    <text
+       id="text660"
+       x="474.98"
+       y="121.92"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951874,1.0004815)">Oslo</text>
+    <circle id="circle664" class="land-circle" cx="632.82" cy="211.64" r=".28" />
+    <text
+       id="text666"
+       x="630.3"
+       y="210.96"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Lahore</text>
+    <circle id="circle670" class="land-circle" cx="614.54" cy="229.68" r=".28" />
+    <text
+       id="text672"
+       x="612.02"
+       y="231.58"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Karachi</text>
+    <circle id="circle676" class="land-circle" cx="525.04" cy="369.39" r=".28" />
+    <text
+       id="text678"
+       x="525.29"
+       y="368.65"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Durban</text>
+    <circle id="circle682" class="land-circle" cx="523.39" cy="122.46" r=".28" />
+    <text
+       id="text684"
+       x="523.64"
+       y="121.84"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">St. Petersburg</text>
+    <circle id="circle688" class="land-circle" cx="191.21" cy="240.68" r=".28" />
+    <text
+       id="text690"
+       x="191.3"
+       y="240"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Guadalajara</text>
+    <circle id="circle694" class="land-circle" cx="203.96" cy="244.88" r=".28" />
+    <text
+       id="text696"
+       x="204.06"
+       y="244.19"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Puebla</text>
+    <circle id="circle700" class="land-circle" cx="469.21" cy="262.85" r=".28" />
+    <text
+       id="text702"
+       x="469.43"
+       y="262.16"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Kano</text>
+    <circle id="circle706" class="land-circle" cx="500.23" cy="149.49" r=".28" />
+    <text
+       id="text708"
+       x="500.47"
+       y="148.86"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Warsaw</text>
+    <circle id="circle712" class="land-circle" cx="760.59" cy="190.57" r=".28" />
+    <text
+       id="text714"
+       x="760.96"
+       y="189.91"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Pyongyang</text>
+    <circle id="circle718" class="land-circle" cx="545.63" cy="309.78" r=".28" />
+    <text
+       id="text720"
+       x="545.9"
+       y="309.07"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Dar es Salaam</text>
+    <circle id="circle724" class="land-circle" cx="693.23" cy="283.92" r=".28" />
+    <text
+       id="text726"
+       x="693.56"
+       y="283.23"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Medan</text>
+    <circle id="circle730" class="land-circle" cx="432.5" cy="145.85" r=".28" />
+    <text
+       id="text732"
+       x="432.53"
+       y="145.26"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Dublin</text>
+    <circle id="circle736" class="land-circle" cx="421.19" cy="277.11" r=".28" />
+    <text
+       id="text738"
+       x="421.4"
+       y="276.42"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Monrovia</text>
+    <circle id="circle742" class="land-circle" cx="483.44" cy="185.23" r=".28" />
+    <text
+       id="text744"
+       x="483.67"
+       y="184.58"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Naples</text>
+    <circle id="circle748" class="land-circle" cx="470.91" cy="171.24" r=".28" />
+    <text
+       id="text750"
+       x="471.14"
+       y="170.6"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Milan</text>
+    <circle id="circle754" class="land-circle" cx="700.81" cy="284.96" r=".28" />
+    <text
+       id="text756"
+       x="705.87"
+       y="283.95"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Kuala Lumpur</text>
+    <circle id="circle760" class="land-circle" cx="706.01" cy="199.08" r=".28" />
+    <text
+       id="text762"
+       x="706.35"
+       y="198.43"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Lanzhou</text>
+    <circle id="circle766" class="land-circle" cx="717.27" cy="235.08" r=".28" />
+    <text
+       id="text768"
+       x="717.6"
+       y="234.4"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Nanning</text>
+    <circle id="circle772" class="land-circle" cx="713.29" cy="225.13" r=".28" />
+    <text
+       id="text774"
+       x="713.63"
+       y="224.47"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Guiyang</text>
+    <circle id="circle778" class="land-circle" cx="712.97" cy="217.1" r=".28" />
+    <text
+       id="text780"
+       x="713.31"
+       y="216.43"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Chongqing</text>
+    <circle id="circle784" class="land-circle" cx="744.55" cy="226.47" r=".28" />
+    <text
+       id="text786"
+       x="744.91"
+       y="225.79"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Fuzhou</text>
+    <circle id="circle790" class="land-circle" cx="729.7" cy="234.23" r=".28" />
+    <text
+       id="text792"
+       x="727.46"
+       y="233.39"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Guangzhou</text>
+    <circle id="circle796" class="land-circle" cx="730.74" cy="234.47" r=".28" />
+    <text
+       id="text798"
+       x="736.23"
+       y="235.22"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Dongguan</text>
+    <circle id="circle802" class="land-circle" cx="715.39" cy="310.15" r=".28" />
+    <text
+       id="text804"
+       x="715.74"
+       y="309.44"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Bandung</text>
+    <circle id="circle808" class="land-circle" cx="728.28" cy="310.9" r=".28" />
+    <text
+       id="text810"
+       x="728.63"
+       y="310.19"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Surabaya</text>
+    <circle id="circle814" class="land-circle" cx="249.39" cy="298.36" r=".28" />
+    <text
+       id="text816"
+       x="249.51"
+       y="297.65"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Guayaquil</text>
+    <circle id="circle820" class="land-circle" cx="260.19" cy="277.2" r=".28" />
+    <text
+       id="text822"
+       x="260.32"
+       y="276.51"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Medellín</text>
+    <circle id="circle826" class="land-circle" cx="257.89" cy="284.37" r=".28" />
+    <text
+       id="text828"
+       x="258.02"
+       y="283.67"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Cali</text>
+    <circle id="circle832" class="land-circle" cx="243.32" cy="234.26" r=".28" />
+    <text
+       id="text834"
+       x="243.43"
+       y="233.59"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Havana</text>
+    <circle id="circle838" class="land-circle" cx="522.47" cy="212.63" r=".28" />
+    <text
+       id="text840"
+       x="522.72"
+       y="211.97"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Alexandria</text>
+    <circle id="circle844" class="land-circle" cx="472.89" cy="145.12" r=".28" />
+    <text
+       id="text846"
+       x="473.11"
+       y="144.49"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Hamburg</text>
+    <circle id="circle850" class="land-circle" cx="476.8" cy="162.91" r=".28" />
+    <text
+       id="text852"
+       x="477.03"
+       y="162.27"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Munich</text>
+    <circle id="circle856" class="land-circle" cx="483.99" cy="156.63" r=".28" />
+    <text
+       id="text858"
+       x="484.22"
+       y="155.99"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Prague</text>
+    <circle id="circle862" class="land-circle" cx="567.29" cy="217.63" r=".28" />
+    <text
+       id="text864"
+       x="567.56"
+       y="216.96"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Kuwait</text>
+    <circle id="circle868" class="land-circle" cx="718.69" cy="204.11" r=".28" />
+    <text
+       id="text870"
+       x="719.04"
+       y="203.45"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Xian</text>
+    <circle id="circle874" class="land-circle" cx="727.76" cy="193.88" r=".28" />
+    <text
+       id="text876"
+       x="728.11"
+       y="193.22"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Taiyuan</text>
+    <circle id="circle880" class="land-circle" cx="732.04" cy="214.34" r=".28" />
+    <text
+       id="text882"
+       x="732.41"
+       y="213.67"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Wuhan</text>
+    <circle id="circle886" class="land-circle" cx="728.82" cy="220.79" r=".28" />
+    <text
+       id="text888"
+       x="729.17"
+       y="220.12"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Changsha</text>
+    <circle id="circle892" class="land-circle" cx="703.24" cy="229.15" r=".28" />
+    <text
+       id="text894"
+       x="703.58"
+       y="228.48"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Kunming</text>
+    <circle id="circle898" class="land-circle" cx="730.54" cy="202.77" r=".28" />
+    <text
+       id="text900"
+       x="730.89"
+       y="202.11"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Zhengzhou</text>
+    <circle id="circle904" class="land-circle" cx="754.86" cy="182.36" r=".28" />
+    <text
+       id="text906"
+       x="755.23"
+       y="181.71"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Shenyeng</text>
+    <circle id="circle910" class="land-circle" cx="738.82" cy="197.32" r=".28" />
+    <text
+       id="text912"
+       x="739.05"
+       y="198.81"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Jinan</text>
+    <circle id="circle916" class="land-circle" cx="739.33" cy="190.24" r=".28" />
+    <text
+       id="text918"
+       x="739.69"
+       y="189.59"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Tianjin</text>
+    <circle id="circle922" class="land-circle" cx="736.05" cy="219.5" r=".28" />
+    <text
+       id="text924"
+       x="736.4"
+       y="218.83"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Nanchang</text>
+    <circle id="circle928" class="land-circle" cx="743.26" cy="210.3" r=".28" />
+    <text
+       id="text930"
+       x="743.63"
+       y="209.63"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Nanjing</text>
+    <circle id="circle934" class="land-circle" cx="746.71" cy="215.24" r=".28" />
+    <text
+       id="text936"
+       x="747.07"
+       y="214.57"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Hangzhou</text>
+    <circle id="circle940" class="land-circle" cx="777.22" cy="203.8" r=".28" />
+    <text
+       id="text942"
+       x="777.59"
+       y="203.13"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Hiroshima</text>
+    <circle id="circle946" class="land-circle" cx="759.56" cy="176.17" r=".28" />
+    <text
+       id="text948"
+       x="759.93"
+       y="175.52"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Changchun</text>
+    <circle id="circle952" class="land-circle" cx="720.99" cy="185.78" r=".28" />
+    <text
+       id="text954"
+       x="721.34"
+       y="185.13"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Baotou</text>
+    <circle id="circle958" class="land-circle" cx="762.82" cy="170.38" r=".28" />
+    <text
+       id="text960"
+       x="763.19"
+       y="169.73"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Harbin</text>
+    <circle id="circle964" class="land-circle" cx="799.33" cy="178.56" r=".28" />
+    <text
+       id="text966"
+       x="799.72"
+       y="177.91"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Sapporo</text>
+    <circle id="circle970" class="land-circle" cx="274.3" cy="246.37" r=".28" />
+    <text
+       id="text972"
+       x="274.41"
+       y="248.62"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Santo Domingo</text>
+    <circle id="circle976" class="land-circle" cx="447.5" cy="279.02" r=".28" />
+    <text
+       id="text978"
+       x="446.1"
+       y="278.18"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Accra</text>
+    <circle id="circle982" class="land-circle" cx="639.99" cy="219.52" r=".28" />
+    <text
+       id="text984"
+       x="640.3"
+       y="218.86"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Delhi</text>
+    <circle id="circle988" class="land-circle" cx="643.09" cy="249.12" r=".28" />
+    <text
+       id="text990"
+       x="643.4"
+       y="248.44"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Hyderabad</text>
+    <circle id="circle994" class="land-circle" cx="631.59" cy="246.21" r=".28" />
+    <text
+       id="text996"
+       x="632.17"
+       y="248.02"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Pune</text>
+    <circle id="circle1000" class="land-circle" cx="644.61" cy="239.39" r=".28" />
+    <text
+       id="text1002"
+       x="644.92"
+       y="238.71"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Nagpur</text>
+    <circle id="circle1006" class="land-circle" cx="480.8" cy="207.97" r=".28" />
+    <text
+       id="text1008"
+       x="481.03"
+       y="207.31"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Tripoli</text>
+    <circle id="circle1012" class="land-circle" cx="534.45" cy="210.22" r=".28" />
+    <text
+       id="text1014"
+       x="534.71"
+       y="209.56"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Tel Aviv-Yafo</text>
+    <circle id="circle1018" class="land-circle" cx="510.01" cy="121.58" r=".28" />
+    <text
+       id="text1020"
+       x="510.26"
+       y="120.96"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951874,1.0004815)">Helsinki</text>
+    <circle id="circle1024" class="land-circle" cx="596.09" cy="198.48" r=".28" />
+    <text
+       id="text1026"
+       x="596.38"
+       y="197.82"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Mashhad</text>
+    <circle id="circle1030" class="land-circle" cx="636.46" cy="224.23" r=".28" />
+    <text
+       id="text1032"
+       x="636.76"
+       y="223.56"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Jaipur</text>
+    <circle id="circle1036" class="land-circle" cx="647.67" cy="225.46" r=".28" />
+    <text
+       id="text1038"
+       x="647.98"
+       y="224.78"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Kanpur</text>
+    <circle id="circle1042" class="land-circle" cx="659.62" cy="227.68" r=".28" />
+    <text
+       id="text1044"
+       x="660.24"
+       y="229.56"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Patna</text>
+    <circle id="circle1048" class="land-circle" cx="647.57" cy="260.08" r=".28" />
+    <text
+       id="text1050"
+       x="651.99"
+       y="259.4"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Chennai</text>
+    <circle id="circle1054" class="land-circle" cx="628.43" cy="234.53" r=".28" />
+    <text
+       id="text1056"
+       x="628.73"
+       y="233.85"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Ahmedabad</text>
+    <circle id="circle1060" class="land-circle" cx="629.08" cy="239.31" r=".28" />
+    <text
+       id="text1062"
+       x="629.38"
+       y="238.63"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Surat</text>
+    <circle id="circle1066" class="land-circle" cx="479.25" cy="137.79" r=".28" />
+    <text
+       id="text1068"
+       x="479.48"
+       y="137.17"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">København</text>
+    <circle id="circle1072" class="land-circle" cx="437.99" cy="279.59" r=".28" />
+    <text
+       id="text1074"
+       x="438.2"
+       y="278.9"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Abidjan</text>
+    <circle id="circle1078" class="land-circle" cx="327.54" cy="296.45" r=".28" />
+    <text
+       id="text1080"
+       x="327.69"
+       y="295.75"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Belém</text>
+    <circle id="circle1084" class="land-circle" cx="328.94" cy="332.43" r=".28" />
+    <text
+       id="text1086"
+       x="329.1"
+       y="331.71"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Brasília</text>
+    <circle id="circle1090" class="land-circle" cx="320.77" cy="369.9" r=".28" />
+    <text
+       id="text1092"
+       x="320.93"
+       y="369.16"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Porto Alegre</text>
+    <circle id="circle1096" class="land-circle" cx="325.45" cy="357.45" r=".28" />
+    <text
+       id="text1098"
+       x="325.61"
+       y="356.72"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Curitiba</text>
+    <circle id="circle1102" class="land-circle" cx="352.15" cy="302.17" r=".28" />
+    <text
+       id="text1104"
+       x="352.32"
+       y="301.47"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Fortaleza</text>
+    <circle id="circle1108" class="land-circle" cx="352.39" cy="325.28" r=".28" />
+    <text
+       id="text1110"
+       x="352.56"
+       y="324.56"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Salvador</text>
+    <circle id="circle1114" class="land-circle" cx="165.93" cy="145.12" r=".28" />
+    <text
+       id="text1116"
+       x="166.01"
+       y="144.49"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Edmonton</text>
+    <circle id="circle1120" class="land-circle" cx="265.44" cy="171.9" r=".28" />
+    <text
+       id="text1122"
+       x="265.57"
+       y="171.26"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Montréal</text>
+    <circle id="circle1126" class="land-circle" cx="325.49" cy="334.82" r=".28" />
+    <text
+       id="text1128"
+       x="325.65"
+       y="334.1"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Goiânia</text>
+    <circle id="circle1132" class="land-circle" cx="361.25" cy="312.97" r=".28" />
+    <text
+       id="text1134"
+       x="361.43"
+       y="312.26"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Recife</text>
+    <circle id="circle1138" class="land-circle" cx="458.8" cy="154.18" r=".28" />
+    <text
+       id="text1140"
+       x="459.02"
+       y="153.54"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Brussels</text>
+    <circle id="circle1144" class="land-circle" cx="672.74" cy="232.71" r=".28" />
+    <text
+       id="text1146"
+       x="673.06"
+       y="232.04"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Dhaka</text>
+    <circle id="circle1150" class="land-circle" cx="480.92" cy="314.88" r=".28" />
+    <text
+       id="text1152"
+       x="481.16"
+       y="314.17"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Luanda</text>
+    <circle id="circle1156" class="land-circle" cx="455.62" cy="197.08" r=".28" />
+    <text
+       id="text1158"
+       x="455.84"
+       y="196.42"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Algiers</text>
+    <circle id="circle1162" class="land-circle" cx="676.21" cy="236.36" r=".28" />
+    <text
+       id="text1164"
+       x="676.53"
+       y="235.68"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Chittagong</text>
+    <circle id="circle1168" class="land-circle" cx="735.95" cy="375.11" r=".28" />
+    <text
+       id="text1170"
+       x="736.3"
+       y="374.37"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Perth</text>
+    <circle id="circle1174" class="land-circle" cx="687.06" cy="250.69" r=".28" />
+    <text
+       id="text1176"
+       x="687.39"
+       y="250.02"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Rangoon</text>
+    <circle id="circle1180" class="land-circle" cx="143.1" cy="194.74" r=".28" />
+    <text
+       id="text1182"
+       x="143.17"
+       y="194.09"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">San Francisco</text>
+    <circle id="circle1186" class="land-circle" cx="187.07" cy="189.48" r=".28" />
+    <text
+       id="text1188"
+       x="187.16"
+       y="188.83"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Denver</text>
+    <circle id="circle1192" class="land-circle" cx="211.05" cy="217.05" r=".28" />
+    <text
+       id="text1194"
+       x="211.15"
+       y="216.38"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Houston</text>
+    <circle id="circle1198" class="land-circle" cx="248.9" cy="228.1" r=".28" />
+    <text
+       id="text1200"
+       x="249.02"
+       y="227.43"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Miami</text>
+    <circle id="circle1204" class="land-circle" cx="238.4" cy="206.05" r=".28" />
+    <text
+       id="text1206"
+       x="238.5"
+       y="205.39"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Atlanta</text>
+    <circle id="circle1210" class="land-circle" cx="230.14" cy="182.75" r=".28" />
+    <text
+       id="text1212"
+       x="230.25"
+       y="182.11"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Chicago</text>
+    <circle id="circle1216" class="land-circle" cx="281.71" cy="266.62" r=".28" />
+    <text
+       id="text1218"
+       x="281.84"
+       y="265.93"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Caracas</text>
+    <circle id="circle1222" class="land-circle" cx="523.88" cy="155.49" r=".28" />
+    <text
+       id="text1224"
+       x="524.13"
+       y="154.86"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Kyiv</text>
+    <circle id="circle1228" class="land-circle" cx="585.43" cy="228.73" r=".28" />
+    <text
+       id="text1230"
+       x="585.71"
+       y="228.06"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Dubai</text>
+    <circle id="circle1234" class="land-circle" cx="620.26" cy="183.83" r=".28" />
+    <text
+       id="text1236"
+       x="620.56"
+       y="183.18"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Tashkent</text>
+    <circle id="circle1240" class="land-circle" cx="438.88" cy="186.53" r=".28" />
+    <text
+       id="text1242"
+       x="439.09"
+       y="185.88"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Madrid</text>
+    <circle id="circle1246" class="land-circle" cx="493.01" cy="124.64" r=".28" />
+    <text
+       id="text1248"
+       x="493.25"
+       y="124.02"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951874,1.0004815)">Stockholm</text>
+    <circle id="circle1252" class="land-circle" cx="697.87" cy="258.41" r=".28" />
+    <text
+       id="text1254"
+       x="698.19"
+       y="257.73"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Bangkok</text>
+    <circle id="circle1258" class="land-circle" cx="256.53" cy="322.96" r=".28" />
+    <text
+       id="text1260"
+       x="256.65"
+       y="322.24"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Lima</text>
+    <circle id="circle1264" class="land-circle" cx="404.6" cy="255.97" r=".28" />
+    <text
+       id="text1266"
+       x="404.79"
+       y="255.28"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Dakar</text>
+    <circle id="circle1270" class="land-circle" cx="517.7" cy="359.45" r=".28" />
+    <text
+       id="text1272"
+       x="517.85"
+       y="361.14"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Johannesburg</text>
+    <circle id="circle1276" class="land-circle" cx="460.25" cy="149.16" r=".28" />
+    <text
+       id="text1278"
+       x="460.48"
+       y="148.53"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Amsterdam</text>
+    <circle id="circle1282" class="land-circle" cx="429.1" cy="206" r=".28" />
+    <text
+       id="text1284"
+       x="429.34"
+       y="207.69"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Casablanca</text>
+    <circle id="circle1288" class="land-circle" cx="763.69" cy="194.77" r=".28" />
+    <text
+       id="text1290"
+       x="764.05"
+       y="194.12"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Seoul</text>
+    <circle id="circle1294" class="land-circle" cx="748.73" cy="256.25" r=".28" />
+    <text
+       id="text1296"
+       x="749.09"
+       y="255.56"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Manila</text>
+    <circle id="circle1300" class="land-circle" cx="198.67" cy="227.56" r=".28" />
+    <text
+       id="text1302"
+       x="198.76"
+       y="226.89"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Monterrey</text>
+    <circle id="circle1306" class="land-circle" cx="481.34" cy="148.58" r=".28" />
+    <text
+       id="text1308"
+       x="481.57"
+       y="147.95"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452">Berlin</text>
+    <circle id="circle1312" class="land-circle" cx="665.7" cy="176.35" r=".28" />
+    <text
+       id="text1314"
+       x="666.02"
+       y="175.7"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Ürümqi</text>
+    <circle id="circle1318" class="land-circle" cx="706.69" cy="214.09" r=".28" />
+    <text
+       id="text1320"
+       x="707.03"
+       y="213.43"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Chengdu</text>
+    <circle id="circle1324" class="land-circle" cx="784.72" cy="202.78" r=".28" />
+    <text
+       id="text1326"
+       x="785.1"
+       y="202.12"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Ōsaka</text>
+    <circle id="circle1330" class="land-circle" cx="486.09" cy="303.62" r=".28" />
+    <text
+       id="text1332"
+       x="486.75"
+       y="305.46"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Kinshasa</text>
+    <circle id="circle1336" class="land-circle" cx="640.81" cy="260.39" r=".28" />
+    <text
+       id="text1338"
+       x="641.12"
+       y="259.7"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Bangalore</text>
+    <circle id="circle1342" class="land-circle" cx="507.02" cy="193.57" r=".28" />
+    <text
+       id="text1344"
+       x="507.26"
+       y="192.92"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Athens</text>
+    <circle id="circle1348" class="land-circle" cx="558.37" cy="206.73" r=".28" />
+    <text
+       id="text1350"
+       x="558.64"
+       y="206.07"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Baghdad</text>
+    <circle id="circle1354" class="land-circle" cx="544.22" cy="270.3" r=".28" />
+    <text
+       id="text1356"
+       x="544.48"
+       y="269.61"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Addis Ababa</text>
+    <circle id="circle1360" class="land-circle" cx="575.85" cy="200.17" r=".28" />
+    <text
+       id="text1362"
+       x="576.13"
+       y="199.52"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Tehran</text>
+    <circle id="circle1366" class="land-circle" cx="141.56" cy="159.9" r=".28" />
+    <text
+       id="text1368"
+       x="141.63"
+       y="159.26"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Vancouver</text>
+    <circle id="circle1372" class="land-circle" cx="250.82" cy="177.19" r=".28" />
+    <text
+       id="text1374"
+       x="250.94"
+       y="176.54"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Toronto</text>
+    <circle id="circle1378" class="land-circle" cx="302.89" cy="382.48" r=".28" />
+    <text
+       id="text1380"
+       x="303.04"
+       y="381.73"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Buenos Aires</text>
+    <circle id="circle1384" class="land-circle" cx="619.98" cy="203.43" r=".28" />
+    <text
+       id="text1386"
+       x="620.28"
+       y="202.77"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Kabul</text>
+    <circle id="circle1390" class="land-circle" cx="488.72" cy="162.69" r=".28" />
+    <text
+       id="text1392"
+       x="488.95"
+       y="162.05"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Vienna</text>
+    <circle id="circle1396" class="land-circle" cx="808.37" cy="391.64" r=".28" />
+    <text
+       id="text1398"
+       x="808.76"
+       y="390.89"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Melbourne</text>
+    <circle id="circle1402" class="land-circle" cx="750.2" cy="229.24" r=".28" />
+    <text
+       id="text1404"
+       x="750.56"
+       y="228.57"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Taipei</text>
+    <circle id="circle1408" class="land-circle" cx="882.41" cy="388.85" r=".28" />
+    <text
+       id="text1410"
+       x="882.84"
+       y="388.1"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Auckland</text>
+    <circle id="circle1414" class="land-circle" cx="153.03" cy="204.86" r=".28" />
+    <text
+       id="text1416"
+       x="153.11"
+       y="204.2"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Los Angeles</text>
+    <circle id="circle1420" class="land-circle" cx="256.95" cy="191.68" r=".28" />
+    <text
+       id="text1422"
+       x="257.08"
+       y="191.02"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Washington, D.C.</text>
+    <circle id="circle1426" class="land-circle" cx="264.99" cy="185.93" r=".28" />
+    <text
+       id="text1428"
+       x="265.11"
+       y="185.28"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">New York</text>
+    <circle id="circle1432" class="land-circle" cx="447.75" cy="151.98" r=".28" />
+    <text
+       id="text1434"
+       x="447.96"
+       y="151.35"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">London</text>
+    <circle id="circle1438" class="land-circle" cx="520.14" cy="184.45" r=".28" />
+    <text
+       id="text1440"
+       x="520.39"
+       y="183.8"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Istanbul</text>
+    <circle id="circle1444" class="land-circle" cx="564.29" cy="230.29" r=".28" />
+    <text
+       id="text1446"
+       x="564.56"
+       y="229.61"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Riyadh</text>
+    <circle id="circle1450" class="land-circle" cx="493.85" cy="380.57" r=".28" />
+    <text
+       id="text1452"
+       x="494.09"
+       y="379.82"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Cape Town</text>
+    <circle id="circle1456" class="land-circle" cx="541.53" cy="137.54" r=".28" />
+    <text
+       id="text1458"
+       x="541.79"
+       y="136.91"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951874,1.0004815)">Moscow</text>
+    <circle id="circle1462" class="land-circle" cx="201.65" cy="243.87" r=".28" />
+    <text
+       id="text1464"
+       x="201.75"
+       y="243.18"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Mexico City</text>
+    <circle id="circle1468" class="land-circle" cx="456.54" cy="276.79" r=".28" />
+    <text
+       id="text1470"
+       x="457.28"
+       y="278.78"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Lagos</text>
+    <circle id="circle1474" class="land-circle" cx="479.06" cy="182.09" r=".28" />
+    <text
+       id="text1476"
+       x="479.29"
+       y="181.44"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Rome</text>
+    <circle id="circle1480" class="land-circle" cx="737.31" cy="187.92" r=".28" />
+    <text
+       id="text1482"
+       x="737.67"
+       y="187.27"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Beijing</text>
+    <circle id="circle1486" class="land-circle" cx="539.54" cy="296.03" r=".28" />
+    <text
+       id="text1488"
+       x="539.79"
+       y="295.33"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Nairobi</text>
+    <circle id="circle1492" class="land-circle" cx="713.55" cy="308.22" r=".28" />
+    <text
+       id="text1494"
+       x="713.9"
+       y="307.51"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Jakarta</text>
+    <circle id="circle1498" class="land-circle" cx="263.9" cy="281.4" r=".28" />
+    <text
+       id="text1500"
+       x="264.03"
+       y="280.7"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Bogota</text>
+    <circle id="circle1504" class="land-circle" cx="525.71" cy="215.79" r=".28" />
+    <text
+       id="text1506"
+       x="525.96"
+       y="215.12"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Cairo</text>
+    <circle id="circle1510" class="land-circle" cx="749.86" cy="212.59" r=".28" />
+    <text
+       id="text1512"
+       x="750.22"
+       y="211.92"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Shanghai</text>
+    <circle id="circle1516" class="land-circle" cx="795.39" cy="200.14" r=".28" />
+    <text
+       id="text1518"
+       x="795.77"
+       y="199.48"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Tokyo</text>
+    <circle id="circle1522" class="land-circle" cx="629.12" cy="244.96" r=".28" />
+    <text
+       id="text1524"
+       x="629.43"
+       y="244.28"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Mumbai</text>
+    <circle id="circle1528" class="land-circle" cx="453.83" cy="160.55" r=".28" />
+    <text
+       id="text1530"
+       x="454.05"
+       y="159.92"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Paris</text>
+    <circle id="circle1534" class="land-circle" cx="272.39" cy="379.26" r=".28" />
+    <text
+       id="text1536"
+       x="272.67"
+       y="381"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Santiago</text>
+    <circle id="circle1540" class="land-circle" cx="667.56" cy="235.93" r=".28" />
+    <text
+       id="text1542"
+       x="668.08"
+       y="237.75"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Kolkata</text>
+    <circle id="circle1546" class="land-circle" cx="340.6" cy="350.87" r=".28" />
+    <text
+       id="text1548"
+       x="340.76"
+       y="350.14"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Rio de Janeiro</text>
+    <circle id="circle1552" class="land-circle" cx="332.14" cy="352.53" r=".28" />
+    <text
+       id="text1554"
+       x="332.3"
+       y="351.8"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">São Paulo</text>
+    <circle id="circle1558" class="land-circle" cx="823.8" cy="380.57" r=".28" />
+    <text
+       id="text1560"
+       x="824.19"
+       y="379.82"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Sydney</text>
+    <circle id="circle1564" class="land-circle" cx="706.21" cy="289.62" r=".28" />
+    <text
+       id="text1566"
+       x="706.54"
+       y="288.92"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Singapore</text>
+    <circle id="circle1570" class="land-circle" cx="731.84" cy="236.61" r=".28" />
+    <text
+       id="text1572"
+       x="732.25"
+       y="238.91"
+       style="font-size:2.24362px;font-family:Helvetica;letter-spacing:-.112181;text-anchor:middle;fill:#2e3436;stroke-width:.280452"
+       transform="scale(0.99951875,1.0004815)">Hong Kong</text>
+  </g>
+</svg>
