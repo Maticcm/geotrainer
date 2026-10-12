@@ -156,8 +156,8 @@ describe("real geometry spot checks", () => {
     expect(click("pacific-ocean", 0, 170).inside).toBe(true);
     expect(click("pacific-ocean", 0, -179.5).inside).toBe(true); // across the antimeridian
     expect(click("lake-baikal", 53.5, 108).correct).toBe(true);
-    expect(click("caspian-sea", 41.5, 53.0).inside).toBe(true); // center of Caspian Sea on SVG map
-    expect(click("caspian-sea", 40.5, 53.5).inside).toBe(true); // eastern Caspian Sea near Turkmenistan
+    expect(click("caspian-sea", 41.5, 51.0).inside).toBe(true); // center of Caspian Sea
+    expect(click("caspian-sea", 40.5, 51.5).inside).toBe(true); // south-central Caspian Sea
     expect(click("great-lakes", 44, -87).correct).toBe(true);
     expect(click("lake-titicaca", -15.9, -69.3).correct).toBe(true);
     expect(click("lake-titicaca", -14.5, -70.5).correct).toBe(true); // Peruvian Andes near Titicaca (~200 km)

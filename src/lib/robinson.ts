@@ -54,8 +54,8 @@ export interface SvgPoint {
 export function projectLatLng(lat: number, lng: number): SvgPoint {
   // Clamp lat to valid Robinson range [-88, 88]
   const clampedLat = max(-88, min(88, lat));
-  // Normalize lng to [-180, 180]
-  const normLng = ((((lng + 180) % 360) + 360) % 360) - 180;
+  // Normalize lng to [-180, 180], preserving +180 boundary
+  const normLng = lng >= 180 ? 180 : ((((lng + 180) % 360) + 360) % 360) - 180;
 
   const lambda = (normLng * pi) / 180;
   const phi = (clampedLat * pi) / 180;
@@ -150,23 +150,31 @@ export function geometryToSvgPath(geom: Geometry | null | undefined): string {
   if (!geom) return "";
 
   function ringToPath(ring: number[][]): string {
-    return (
-      ring
-        .map((pt, idx) => {
-          const { x, y } = projectLatLng(pt[1], pt[0]);
-          return `${idx === 0 ? "M" : "L"} ${x.toFixed(2)} ${y.toFixed(2)}`;
-        })
-        .join(" ") + " Z"
-    );
+    if (!ring || !ring.length) return "";
+    let prevLng = Array.isArray(ring[0]) && typeof ring[0][0] === "number" ? ring[0][0] : 0;
+    const parts: string[] = [];
+    ring.forEach((pt, idx) => {
+      if (!Array.isArray(pt) || typeof pt[0] !== "number" || typeof pt[1] !== "number") return;
+      const isAntimeridianJump = idx > 0 && Math.abs(pt[0] - prevLng) > 180;
+      const { x, y } = projectLatLng(pt[1], pt[0]);
+      parts.push(`${idx === 0 || isAntimeridianJump ? "M" : "L"} ${x.toFixed(2)} ${y.toFixed(2)}`);
+      prevLng = pt[0];
+    });
+    return parts.length ? parts.join(" ") + " Z" : "";
   }
 
   function lineToPath(line: number[][]): string {
-    return line
-      .map((pt, idx) => {
-        const { x, y } = projectLatLng(pt[1], pt[0]);
-        return `${idx === 0 ? "M" : "L"} ${x.toFixed(2)} ${y.toFixed(2)}`;
-      })
-      .join(" ");
+    if (!line || !line.length) return "";
+    let prevLng = Array.isArray(line[0]) && typeof line[0][0] === "number" ? line[0][0] : 0;
+    const parts: string[] = [];
+    line.forEach((pt, idx) => {
+      if (!Array.isArray(pt) || typeof pt[0] !== "number" || typeof pt[1] !== "number") return;
+      const isAntimeridianJump = idx > 0 && Math.abs(pt[0] - prevLng) > 180;
+      const { x, y } = projectLatLng(pt[1], pt[0]);
+      parts.push(`${idx === 0 || isAntimeridianJump ? "M" : "L"} ${x.toFixed(2)} ${y.toFixed(2)}`);
+      prevLng = pt[0];
+    });
+    return parts.join(" ");
   }
 
   switch (geom.type) {

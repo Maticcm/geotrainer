@@ -19,44 +19,43 @@ export function defaultToleranceKm(g: Geometry, category?: GeographyCategory): n
     switch (category) {
       case "rivers":
         // Rivers are thin 1D lines with 0 area across large continents, invisible on blind maps.
-        // A generous 550–850 km corridor across the river basin gives students forgiving lenience
-        // on both mobile touchscreens and desktop mice.
-        return clamp(ext * 0.18, 550, 850);
+        // A very generous corridor across the river basin gives students forgiving lenience on all devices.
+        return clamp(ext * 0.22, 650, 950);
 
       case "canals-straits":
         // Narrow straits and canals (Suez, Panama, Gibraltar, Bosporus, Dardanelles)
-        // High leniency (500–750 km) so tapping near the isthmus or strait is comfortably accepted on all screens.
-        return clamp(ext * 0.35, 500, 750);
+        // High leniency (550–850 km) so tapping near the isthmus or strait is comfortably accepted on all screens.
+        return clamp(ext * 0.40, 550, 850);
 
       case "mountains":
         // Peaks (Point, e.g. Kilimanjaro) and mountain ranges (Alps, Himalayas, Andes, Urals, Rockies, etc.)
-        return g.type === "Point" ? 550 : clamp(ext * 0.12, 350, 520);
+        return g.type === "Point" ? 650 : clamp(ext * 0.18, 450, 750);
 
       case "lakes":
         // Large and small lakes (Caspian Sea, Titicaca, Tanganyika, Victoria, Baikal, Chad, Malawi)
-        // Very generous leniency (500–750 km) so clicking anywhere in or near lakes easily hits on touchscreens.
-        return clamp(ext * 0.22, 500, 750);
+        // Very generous leniency so clicking anywhere in or near lakes easily hits on touchscreens.
+        return clamp(ext * 0.22, 550, 800);
 
       case "islands":
         // Small and large islands / archipelagos (Corsica, Balearics, Maldives, Seychelles, Taiwan, Sri Lanka, etc.)
-        // High leniency (500–800 km) for small island targets on global maps.
-        return clamp(ext * 0.25, 500, 800);
+        // High leniency (550–850 km) for small island targets on global maps.
+        return clamp(ext * 0.30, 550, 850);
 
       case "deserts":
         // Desert regions
-        return clamp(ext * 0.15, 380, 650);
+        return clamp(ext * 0.18, 450, 750);
 
       case "peninsulas":
         // Peninsulas (Deccan, Iberian, Balkan, Apennine)
-        return clamp(ext * 0.08, 100, 320);
+        return clamp(ext * 0.08, 120, 350);
 
       case "oceans-seas":
-        return clamp(ext * 0.10, 400, 750);
+        return clamp(ext * 0.12, 450, 800);
 
       case "continents":
         // Continents are massive continental landmasses.
         // Generous tolerance ensures offshore waters and adjacent archipelagos are recognized.
-        return clamp(ext * 0.10, 650, 1100);
+        return clamp(ext * 0.12, 700, 1200);
 
       case "countries":
         // Generous tolerance ensures border clicks and finger taps on smaller countries are recognized.

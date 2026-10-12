@@ -1048,15 +1048,86 @@ export default function VectorSvgMap({
     }));
   }, [highlights]);
 
+const COMPOSITE_FEATURE_MAP: Record<string, string[]> = {
+  // Celine (Continents)
+  "south-america": ["Argentina", "Bolivia", "Brazil", "Chile", "Colombia", "Ecuador", "Guyana", "Paraguay", "Peru", "Suriname", "Uruguay", "Venezuela", "French_Guiana", "Falkland_Islands"],
+  "europe": ["Spain", "Portugal", "France", "Germany", "Italy", "United_Kingdom", "Ireland", "Belgium", "Netherlands", "Switzerland", "Austria", "Poland", "Czechia", "Slovakia", "Hungary", "Romania", "Bulgaria", "Greece", "Albania", "North_Macedonia", "Serbia", "Bosnia_and_Herzegovina", "Croatia", "Slovenia", "Montenegro", "Kosovo", "Ukraine", "Belarus", "Moldova", "Lithuania", "Latvia", "Estonia", "Finland", "Sweden", "Norway", "Denmark", "Iceland"],
+  "africa": ["Algeria", "Angola", "Benin", "Botswana", "Burkina_Faso", "Burundi", "Cameroon", "Central_African_Republic", "Chad", "Congo", "DR_Congo", "Djibouti", "Egypt", "Equatorial_Guinea", "Eritrea", "Eswatini", "Ethiopia", "Gabon", "Gambia", "Ghana", "Guinea", "Guinea_Bissau", "Cote_d_Ivoire", "Kenya", "Lesotho", "Liberia", "Libya", "Madagascar", "Malawi", "Mali", "Mauritania", "Mauritius", "Morocco", "Mozambique", "Namibia", "Niger", "Nigeria", "Rwanda", "Senegal", "Sierra_Leone", "Somalia", "South_Africa", "South_Sudan", "Sudan", "Tanzania", "Togo", "Tunisia", "Uganda", "Zambia", "Zimbabwe"],
+  "north-america": ["Canada", "United_States", "Mexico", "Cuba", "Jamaica", "Haiti", "Dominican_Republic", "Bahamas", "Trinidad_and_Tobago", "Belize", "Guatemala", "Honduras", "El_Salvador", "Nicaragua", "Costa_Rica", "Panama"],
+  "asia": ["China", "India", "Japan", "South_Korea", "North_Korea", "Mongolia", "Kazakhstan", "Uzbekistan", "Turkmenistan", "Kyrgyzstan", "Tajikistan", "Afghanistan", "Pakistan", "Iran", "Iraq", "Saudi_Arabia", "Yemen", "Oman", "United_Arab_Emirates", "Qatar", "Kuwait", "Jordan", "Israel", "Lebanon", "Syria", "Türkiye", "Georgia", "Armenia", "Azerbaijan", "Myanmar", "Thailand", "Laos", "Cambodia", "Vietnam", "Malaysia", "Singapore", "Indonesia", "Philippines", "Taiwan", "Nepal", "Bhutan", "Bangladesh", "Sri_Lanka"],
+  "australia": ["Australia", "New_Zealand", "Papua_New_Guinea", "Fiji", "Solomon_Islands", "Vanuatu"],
+
+  // Polotoki (Peninsulas)
+  "iberian-peninsula": ["Spain", "Portugal"],
+  "apennine-peninsula": ["Italy"],
+  "scandinavian-peninsula": ["Norway", "Sweden"],
+  "balkan-peninsula": ["Greece", "Albania", "North_Macedonia", "Bulgaria", "Serbia", "Bosnia_and_Herzegovina", "Croatia", "Montenegro", "Kosovo"],
+  "arabian-peninsula": ["Saudi_Arabia", "Yemen", "Oman", "United_Arab_Emirates", "Qatar", "Kuwait"],
+  "indochinese-peninsula": ["Vietnam", "Laos", "Cambodia", "Thailand", "Myanmar", "Malaysia"],
+  "deccan-peninsula": ["India"],
+
+  // Otočja (Islands)
+  "islandija": ["Iceland"],
+  "grenlandija": ["Greenland"],
+  "madagaskar": ["Madagascar"],
+  "tasmanija": ["Australia"],
+  "nova-zelandija": ["New_Zealand"],
+  "srilanka": ["Sri_Lanka"],
+  "kuba": ["Cuba"],
+  "tajvan": ["Taiwan"],
+  "nova-gvineja": ["Papua_New_Guinea"],
+  "filipini": ["Philippines"],
+  "iceland": ["Iceland"],
+  "greenland": ["Greenland"],
+  "madagascar": ["Madagascar"],
+  "tasmania": ["Australia"],
+  "new-zealand": ["New_Zealand"],
+  "sri-lanka": ["Sri_Lanka"],
+  "cuba": ["Cuba"],
+  "taiwan": ["Taiwan"],
+  "papua-new-guinea": ["Papua_New_Guinea"],
+  "philippines": ["Philippines"],
+
+  // Države (Countries)
+  "canada": ["Canada"],
+  "usa": ["United_States"],
+  "china": ["China"],
+  "japan": ["Japan"],
+  "india": ["India"],
+  "south-africa": ["South_Africa"],
+  "united-kingdom": ["United_Kingdom"],
+  "italy": ["Italy"],
+  "egypt": ["Egypt"],
+  "brazil": ["Brazil"],
+  "peru": ["Peru"],
+  "chile": ["Chile"],
+  "mexico": ["Mexico"],
+  "argentina": ["Argentina"],
+  "spain": ["Spain"],
+  "saudi-arabia": ["Saudi_Arabia"]
+};
+
   // Target country ID mapping
   const mappedTargetCountryId = useMemo(() => {
     if (!targetFeatureMeta) return null;
     return COUNTRY_ID_MAP[targetFeatureMeta.id] || null;
   }, [targetFeatureMeta]);
 
-  // ⚡ Memoized target country path overlay (only computed once during review)
+  // ⚡ Memoized target SVG path overlay (computed directly from base vector map paths for 100% precision)
   const targetCountryPath = useMemo(() => {
     if (!showReview || !targetFeatureMeta) return null;
+    const featureId = targetFeatureMeta.id;
+    const compositeIds = COMPOSITE_FEATURE_MAP[featureId];
+    if (compositeIds && compositeIds.length > 0) {
+      const paths = worldMapData.paths.filter((p) => compositeIds.includes(p.id));
+      if (paths.length > 0) {
+        return {
+          id: featureId,
+          d: paths.map((p) => p.d).join(" "),
+        };
+      }
+    }
+
     const directId = mappedTargetCountryId;
     const metaId = targetFeatureMeta.id ? targetFeatureMeta.id.replace(/-/g, "_").toLowerCase() : "";
     const metaName = targetFeatureMeta.nameEn ? targetFeatureMeta.nameEn.replace(/\s+/g, "_").toLowerCase() : "";
@@ -1188,10 +1259,11 @@ export default function VectorSvgMap({
               />
               <path
                 d={targetPath}
-                fill="rgba(16, 185, 129, 0.35)"
+                fill={targetFeatureMeta?.category === "rivers" ? "none" : "rgba(16, 185, 129, 0.35)"}
                 stroke="#34d399"
-                strokeWidth={2 / Math.max(0.1, scale)}
+                strokeWidth={(targetFeatureMeta?.category === "rivers" ? 3 : 2) / Math.max(0.1, scale)}
                 strokeLinejoin="round"
+                strokeLinecap="round"
               />
             </g>
           )}
