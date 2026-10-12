@@ -81,13 +81,12 @@ F("continents", "arctic", "Arktika", "Arctic", 2, S.derived, "Območje okoli sev
 F("mountains", "himalayas", "Himalaja", "Himalayas", 1, S.regions, "Najvišje gorovje sveta med Indijo in Tibetom; Mount Everest.", "World's highest range between India and Tibet; Mount Everest.", { aliases: ["Himalaje"] });
 F("mountains", "alps", "Alpe", "Alps", 1, S.regions, "Gorovje v srednji Evropi, vključno s Slovenijo, Švico in Avstrijo.", "Mountain range in central Europe incl. Slovenia, Switzerland, Austria.", { aliases: ["Alpe"] });
 F("mountains", "andes", "Andi", "Andes", 1, S.regions, "Najdaljše gorovje, vzdolž zahodne obale Južne Amerike.", "Longest range, along South America's west coast.");
-F("mountains", "ural-mountains", "Ural (gorovje)", "Ural Mountains", 2, S.regions, "Gorovje v Rusiji, meja med Evropo in Azijo.", "Russian range forming the Europe–Asia boundary.", { aliases: ["Ural", "Uralsko gorovje", "Urals"] });
+F("mountains", "ural-mountains", "Ural", "Ural Mountains", 2, S.regions, "Gorovje v Rusiji, meja med Evropo in Azijo.", "Russian range forming the Europe–Asia boundary.", { aliases: ["Ural (gorovje)", "Uralsko gorovje", "Urals"] });
 F("mountains", "drakensberg", "Zmajeve gore", "Drakensberg", 3, S.regions, "Gorovje v vzhodni Južni Afriki (JAR, Lesoto).", "Range in eastern South Africa (South Africa, Lesotho).", { aliases: ["Drakensberg", "Zmajeve gore"] });
 F("mountains", "rocky-mountains", "Skalno gorovje", "Rocky Mountains", 2, S.regions, "Gorovje v zahodni Severni Ameriki, od Kanade do Mehike.", "Range in western North America, from Canada to the USA.", { aliases: ["Rocky Mountains", "Rocky Mts", "Skalnato gorovje"] });
 F("mountains", "scandinavian-mountains", "Skandinavsko gorstvo", "Scandinavian Mountains", 2, S.regions, "Gorovje vzdolž meje Norveške in Švedske.", "Range along the Norway–Sweden border.", { aliases: ["Skandinavsko gorovje", "Kjølen", "Kjolen Mountains"] });
 F("mountains", "atlas-mountains", "Atlas", "Atlas Mountains", 2, S.regions, "Gorovje v severozahodni Afriki (Maroko, Alžirija, Tunizija).", "Range in northwest Africa (Morocco, Algeria, Tunisia).", { aliases: ["Atlas gorovje", "Atlas Mts"] });
 F("mountains", "kilimanjaro", "Kilimandžaro", "Mount Kilimanjaro", 2, S.elev, "Najvišja gora Afrike (5895 m), v Tanzaniji.", "Highest mountain of Africa (5,895 m), in Tanzania.", { aliases: ["Kilimanjaro", "Kilimandzaro"], tol: 450, note: "A single peak: modelled as a Point from Natural Earth elevation points." });
-F("mountains", "caucasus-mountains", "Kavkaz", "Caucasus Mountains", 2, S.regions, "Gorovje med Črnim in Kaspijskim morjem.", "Range between the Black and Caspian seas.", { syllabus: false, aliases: ["Kavkaško gorovje", "Caucasus"], note: "Not on the worksheet; extra from the project brief." });
 
 // 4. Prekopi in ožine
 F("canals-straits", "suez-canal", "Sueški prekop", "Suez Canal", 1, S.rivers, "Umetni prekop v Egiptu med Sredozemskim in Rdečim morjem.", "Artificial canal in Egypt linking the Mediterranean and the Red Sea.", { aliases: ["Suez", "Sueški kanal"], tol: 450 });
@@ -120,13 +119,13 @@ F("rivers", "nile", "Nil", "Nile", 1, S.rivers, "Najdaljša reka v Afriki; teče
 F("rivers", "mississippi", "Misisipi", "Mississippi", 1, S.rivers, "Glavna reka ZDA; v Mehiški zaliv.", "Main river of the USA; into the Gulf of Mexico.", { aliases: ["Mississippi"] });
 F("rivers", "colorado-river", "Kolorado", "Colorado River", 2, S.rivers, "Reka v jugozahodnih ZDA; Grand Canyon.", "River in the south-western USA; Grand Canyon.", { aliases: ["Colorado"] });
 F("rivers", "rio-grande", "Rio Grande", "Rio Grande", 2, S.rivers, "Meja med ZDA in Mehiko; v Mehiški zaliv.", "Border between the USA and Mexico; into the Gulf of Mexico.", { aliases: ["Rio Grande"] });
-F("rivers", "saint-lawrence-river", "Reka Sv. Lovrenca", "Saint Lawrence River", 2, S.rivers, "Odtok Velikih jezer v Atlantik (Kanada).", "Outflow of the Great Lakes to the Atlantic (Canada).", { aliases: ["Sv. Lovrenca", "Sveti Lovrenc", "St. Lawrence", "Saint Lawrence"] });
+F("rivers", "saint-lawrence-river", "reka Sv. Lovrenca", "Saint Lawrence River", 2, S.rivers, "Odtok Velikih jezer v Atlantik (Kanada).", "Outflow of the Great Lakes to the Atlantic (Canada).", { aliases: ["Reka Sv. Lovrenca", "Sv. Lovrenca", "Sveti Lovrenc", "St. Lawrence", "Saint Lawrence"] });
 F("rivers", "amazon", "Amazonka", "Amazon", 1, S.rivers, "Najbolj vodnata reka sveta; Brazilija – Atlantik.", "World's greatest river by volume; Brazil – Atlantic.", { aliases: ["Amazon", "Amazonas"] });
 F("rivers", "parana", "Parana", "Paraná", 2, S.rivers, "Reka v Braziliji, Paragvaju in Argentini; tvori Río de la Plata.", "River in Brazil, Paraguay and Argentina; forms the Río de la Plata.", { aliases: ["Paraná"] });
 F("rivers", "orinoco", "Orinoko", "Orinoco", 2, S.rivers, "Glavna reka Venezuele; v Atlantik.", "Main river of Venezuela; into the Atlantic.", { aliases: ["Orinoco"] });
 F("rivers", "rhine", "Ren", "Rhine", 1, S.rivers, "Iz Alp skozi Nemčijo in Nizozemsko v Severno morje.", "From the Alps through Germany and the Netherlands to the North Sea.", { aliases: ["Rhein"] });
 F("rivers", "danube", "Donava", "Danube", 1, S.rivers, "Druga najdaljša evropska reka; v Črno morje.", "Europe's second-longest river; into the Black Sea.", { aliases: ["Donau"] });
-F("rivers", "ural-river", "Ural (reka)", "Ural River", 3, S.rivers, "Iz južnega Urala v Kaspijsko jezero.", "From the southern Urals to the Caspian Sea.", { aliases: ["Ural", "Reka Ural"] });
+F("rivers", "ural-river", "Ural", "Ural River", 3, S.rivers, "Iz južnega Urala v Kaspijsko jezero.", "From the southern Urals to the Caspian Sea.", { aliases: ["Ural (reka)", "Reka Ural"] });
 F("rivers", "euphrates", "Evfrat", "Euphrates", 2, S.rivers, "Iz Turčije skozi Sirijo in Irak; z Tigrisom Mezopotamija.", "From Turkey through Syria and Iraq; with the Tigris forms Mesopotamia.", { aliases: ["Euphrat"] });
 F("rivers", "tigris", "Tigris", "Tigris", 2, S.rivers, "Iz Turčije skozi Irak (Bagdad) v Perzijski zaliv.", "From Turkey through Iraq (Baghdad) to the Persian Gulf.");
 F("rivers", "yangtze", "Modra reka", "Yangtze", 2, S.rivers, "Jangce – najdaljša reka Azije, Kitajska (Šanghaj).", "The Yangtze – longest river in Asia, China (Shanghai).", { aliases: ["Jangce", "Yangtze", "Chang Jiang", "Blue River"], note: "'Modra reka' = Yangtze (Chang Jiang), not the Blue Nile." });
@@ -136,7 +135,6 @@ F("rivers", "ganges", "Ganges", "Ganges", 1, S.rivers, "Sveta reka Indije; v Ben
 F("rivers", "brahmaputra", "Brahmaputra", "Brahmaputra", 3, S.rivers, "Iz Tibeta skozi Indijo in Bangladeš; združi se z Gangesom.", "From Tibet through India and Bangladesh; joins the Ganges.");
 F("rivers", "congo-river", "Kongo", "Congo River", 2, S.rivers, "Najbolj vodnata afriška reka; ekvatorialna Afrika.", "Africa's most voluminous river; equatorial Africa.", { aliases: ["Congo"] });
 F("rivers", "indus", "Ind", "Indus", 2, S.rivers, "Iz Tibeta skozi Pakistan v Arabsko morje.", "From Tibet through Pakistan to the Arabian Sea.", { aliases: ["Indus"] });
-F("rivers", "blue-nile", "Modri Nil", "Blue Nile", 3, S.rivers, "Pritok Nila iz Etiopije; združi se z Belim Nilom v Kartumu.", "Nile tributary from Ethiopia; joins the White Nile at Khartoum.", { syllabus: false, aliases: ["Blue Nile", "Abay"], note: "Not on the worksheet; extra from the project brief." });
 
 // 7. Jezera
 F("lakes", "great-lakes", "Velika jezera", "Great Lakes", 1, S.lakes, "Zgornje, Huronsko, Michigansko, Erie in Ontario – med ZDA in Kanado.", "Superior, Huron, Michigan, Erie and Ontario – USA/Canada border.", { aliases: ["Great Lakes"] });
@@ -148,7 +146,6 @@ F("lakes", "lake-tanganyika", "Tanganjiško jezero", "Lake Tanganyika", 3, S.lak
 F("lakes", "lake-malawi", "Malavijsko jezero", "Lake Malawi", 3, S.lakes, "Jezero v afriški tektonski udorini; Malavi, Mozambik, Tanzanija.", "Rift Valley lake; Malawi, Mozambique, Tanzania.", { aliases: ["Malavi", "Malavijsko", "Lake Nyasa"] });
 F("lakes", "finnish-lakeland", "Dežela 1000-ih jezer", "Finnish Lakeland", 2, S.derived, "Jezerska pokrajina v južni in osrednji Finski.", "Lake district of southern and central Finland.", { aliases: ["Dežela 1000-erih jezer", "Dežela tisoč jezer", "Finska", "Thousand Lakes Region", "Finland Lake District", "Dežela 1000 jezer"], tol: 420, note: "'Thousand Lakes' is a region, not one lake. Modelled as the union of Natural Earth lakes in southern/central Finland (derived)." });
 F("lakes", "aral-sea", "Aralsko jezero", "Aral Sea", 2, S.lakes, "Izsušeno jezero med Kazahstanom in Uzbekistanom.", "Drying lake between Kazakhstan and Uzbekistan.", { aliases: ["Aralsko", "Aralsko morje"] });
-F("lakes", "lake-chad", "Čadsko jezero", "Lake Chad", 3, S.lakes, "Plitvo jezero na robu Sahare v Čadu, Nigru, Nigeriji in Kamerunu.", "Shallow lake on the Sahara's edge: Chad, Niger, Nigeria, Cameroon.", { syllabus: false, aliases: ["Lake Chad", "Čad"], note: "Not on the worksheet; extra from the project brief." });
 
 // 8. Otočja
 F("islands", "tasmania", "Tasmanija", "Tasmania", 2, S.subunits, "Otok južno od Avstralije.", "Island south of mainland Australia.");
@@ -209,5 +206,5 @@ export const UNRESOLVED_REPORT: { term: string; status: "approximate" | "interpr
   { term: "Dekanski polotok", status: "interpreted", detail: "Entire southern Indian peninsula below 21°N to Cape Comorin." },
   { term: "Apeninski polotok", status: "interpreted", detail: "Italy mainland clipped at 44.2°N (derived)." },
   { term: "Modra reka / Rumena reka", status: "interpreted", detail: "Yangtze / Yellow River (Huang He), not the Blue Nile." },
-  { term: "Red Nile (brief)", status: "not-found", detail: "No such river exists; the worksheet term 'Rumena reka' is the Yellow River. Blue Nile kept as non-syllabus extra." },
+  { term: "Red Nile (brief)", status: "not-found", detail: "No such river exists; the worksheet term 'Rumena reka' is the Yellow River (Huang He)." },
 ];

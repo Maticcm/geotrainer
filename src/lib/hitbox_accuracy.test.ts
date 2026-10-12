@@ -70,10 +70,10 @@ describe("Feature Hitbox Accuracy on Every Device", () => {
     }
   });
 
-  it("verifies all 20 rivers accept clicks anywhere along their course", () => {
+  it("verifies all 21 rivers accept clicks anywhere along their course", () => {
     const riverIds = [
       "nile", "amazon", "danube", "rhine", "ural-river", "yangtze", "yellow-river",
-      "mekong", "ganges", "brahmaputra", "congo-river", "indus", "blue-nile",
+      "mekong", "ganges", "brahmaputra", "congo-river", "indus", "euphrates", "tigris",
       "mississippi", "colorado-river", "rio-grande", "saint-lawrence-river",
       "parana", "orinoco", "niger-river"
     ];
