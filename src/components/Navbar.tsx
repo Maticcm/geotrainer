@@ -80,7 +80,7 @@ export function Navbar() {
   };
 
   return (
-    <header className="sticky top-0 z-40 w-full border-b border-[var(--border)] bg-[var(--background)]/85 backdrop-blur-md transition-colors">
+    <header className="sticky top-0 z-40 w-full border-b border-[var(--border)] bg-[var(--background)]/85 backdrop-blur-md transition-colors pt-[env(safe-area-inset-top,0px)] pl-[env(safe-area-inset-left,0px)] pr-[env(safe-area-inset-right,0px)]">
       <a
         href="#main-content"
         className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 z-50 rounded-md bg-blue-600 px-3 py-1.5 text-xs font-semibold text-white shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
@@ -310,7 +310,7 @@ export function Navbar() {
 
       {/* Mobile drawer */}
       {mobileOpen && (
-        <div className="md:hidden border-t border-[var(--border)] bg-[var(--card)] px-4 py-3 space-y-1">
+        <div className="md:hidden border-t border-[var(--border)] bg-[var(--card)] px-4 py-3 space-y-1 pb-[max(1.25rem,calc(0.75rem+env(safe-area-inset-bottom,0px)))]">
           {links.map((link) => {
             const active =
               link.href === "/"

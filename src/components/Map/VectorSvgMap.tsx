@@ -1047,6 +1047,7 @@ export default function VectorSvgMap({
   return (
     <div
       ref={containerRef}
+      data-map-canvas="true"
       className={`relative w-full h-full min-h-[420px] overflow-hidden select-none touch-none rounded-2xl border transition-colors duration-300 ${
         isDark
           ? "bg-[#070b14] border-slate-800 text-slate-100"

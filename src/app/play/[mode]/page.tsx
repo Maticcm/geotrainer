@@ -566,7 +566,7 @@ function GamePlayContent() {
       )}
 
       {/* Top Header Bar (Sleek HUD strip) */}
-      <div className="h-12 border-b border-[var(--border)] bg-[var(--card)] px-3 sm:px-6 flex items-center justify-between z-10 shrink-0 relative">
+      <div className="h-12 border-b border-[var(--border)] bg-[var(--card)] px-3 sm:px-6 pl-[max(0.75rem,env(safe-area-inset-left,0px))] pr-[max(0.75rem,env(safe-area-inset-right,0px))] flex items-center justify-between z-10 shrink-0 relative">
         <div className="flex items-center gap-2.5 sm:gap-3">
           <button
             type="button"
@@ -770,7 +770,7 @@ function GamePlayContent() {
         </div>
 
         {/* Compact Question HUD Drawer (Desktop Sidebar / Mobile Bottom Sheet) */}
-        <div className="w-full lg:w-80 xl:w-96 landscape:w-72 landscape:lg:w-80 max-h-[38vh] sm:max-h-[42vh] lg:max-h-none landscape:max-h-none border-t lg:border-t-0 lg:border-l landscape:border-t-0 landscape:border-l border-[var(--border)] bg-[var(--card)] p-3 sm:p-4 lg:p-5 flex flex-col justify-between overflow-hidden z-10 shrink-0 shadow-lg pb-safe">
+        <div className="w-full lg:w-80 xl:w-96 landscape:w-72 landscape:lg:w-80 max-h-[38vh] sm:max-h-[42vh] lg:max-h-none landscape:max-h-none border-t lg:border-t-0 lg:border-l landscape:border-t-0 landscape:border-l border-[var(--border)] bg-[var(--card)] p-3 sm:p-4 lg:p-5 flex flex-col justify-between overflow-hidden z-10 shrink-0 shadow-lg pb-safe-action pl-[max(0.75rem,env(safe-area-inset-left,0px))] pr-[max(0.75rem,env(safe-area-inset-right,0px))]">
           <div className="overflow-y-auto min-h-0 flex-1 pr-1 space-y-2.5 sm:space-y-4">
             {/* Question Phase */}
             {!isReview ? (

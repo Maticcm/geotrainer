@@ -50,7 +50,7 @@ export function BottomNav() {
   return (
     <nav
       aria-label="Mobilna navigacija"
-      className="md:hidden shrink-0 z-40 border-t border-[var(--border)] bg-[var(--card)]/92 backdrop-blur-xl transition-colors pb-safe shadow-[0_-4px_20px_rgba(0,0,0,0.06)] dark:shadow-[0_-4px_20px_rgba(0,0,0,0.3)]"
+      className="md:hidden shrink-0 z-40 border-t border-[var(--border)] bg-[var(--card)]/92 backdrop-blur-xl transition-colors pb-safe pl-[env(safe-area-inset-left,0px)] pr-[env(safe-area-inset-right,0px)] shadow-[0_-4px_20px_rgba(0,0,0,0.06)] dark:shadow-[0_-4px_20px_rgba(0,0,0,0.3)]"
     >
       <div className="flex h-14 items-center justify-around px-2">
         {navItems.map((item) => {

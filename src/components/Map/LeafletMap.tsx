@@ -388,7 +388,7 @@ export default function LeafletMap({
   };
 
   return (
-    <div className="relative w-full h-full min-h-[350px] overflow-hidden rounded-xl border border-[var(--border)] shadow-inner">
+    <div data-map-canvas="true" className="relative w-full h-full min-h-[350px] overflow-hidden rounded-xl border border-[var(--border)] shadow-inner">
       <div ref={containerRef} className="w-full h-full z-0" tabIndex={0} aria-label="Zemljevid sveta" />
 
       {/* Floating map controls */}

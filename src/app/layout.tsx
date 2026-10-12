@@ -58,12 +58,15 @@ export const metadata: Metadata = {
   },
 };
 
+import { MobileViewportLock } from "@/components/MobileViewportLock";
+
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
-  maximumScale: 5,
-  userScalable: true,
+  maximumScale: 1,
+  userScalable: false,
   viewportFit: "cover",
+  interactiveWidget: "resizes-content",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "#ffffff" },
     { media: "(prefers-color-scheme: dark)", color: "#0b1120" },
@@ -79,18 +82,19 @@ export default function RootLayout({
     <html
       lang="sl"
       suppressHydrationWarning
-      className={`${sansFont.variable} ${monoFont.variable} h-full antialiased font-sans`}
+      className={`${sansFont.variable} ${monoFont.variable} h-full antialiased font-sans overscroll-none`}
     >
       <body
         suppressHydrationWarning
-        className="h-full flex flex-col bg-[var(--background)] text-[var(--foreground)] selection:bg-blue-500 selection:text-white overflow-hidden"
+        className="h-[100dvh] min-h-[100dvh] max-h-[100dvh] flex flex-col bg-[var(--background)] text-[var(--foreground)] selection:bg-blue-500 selection:text-white overflow-hidden touch-manipulation overscroll-none"
       >
         <ThemeListener />
+        <MobileViewportLock />
         <ServiceWorkerRegister />
-        <Suspense fallback={<header className="h-14 border-b border-[var(--border)] bg-[var(--card)]" />}>
+        <Suspense fallback={<header className="h-14 border-b border-[var(--border)] bg-[var(--card)] pt-[env(safe-area-inset-top,0px)]" />}>
           <Navbar />
         </Suspense>
-        <main id="main-content" className="flex-1 flex flex-col min-h-0 overflow-y-auto">
+        <main id="main-content" className="flex-1 flex flex-col min-h-0 overflow-y-auto overscroll-contain">
           {children}
         </main>
         <Suspense fallback={null}>
