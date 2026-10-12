@@ -74,7 +74,7 @@ describe("geometry-based click evaluation", () => {
     expect(near.direction).toBe("W");
   });
   it("is generous with tolerance on easy and strict on hard", () => {
-    const click = { lat: 42, lng: 18.6 }; // ~48 km outside the polygon
+    const click = { lat: 42, lng: 19.6 }; // ~130 km outside the polygon (within easy ~168km, outside hard ~96km)
     const e = evaluateClick(country, g, click, "easy");
     const h = evaluateClick(country, g, click, "hard");
     expect(e.correct).toBe(true);

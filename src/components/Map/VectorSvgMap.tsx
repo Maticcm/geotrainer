@@ -434,12 +434,44 @@ export default function VectorSvgMap({
     const svg = svgRef.current;
     if (!svg) return null;
     const ctm = svg.getScreenCTM();
-    if (!ctm) return null;
-    const pt = svg.createSVGPoint();
-    pt.x = clientX;
-    pt.y = clientY;
-    const transformed = pt.matrixTransform(ctm.inverse());
-    return { x: transformed.x, y: transformed.y };
+    if (ctm && typeof ctm.inverse === "function") {
+      try {
+        const inv = ctm.inverse();
+        if (inv) {
+          const pt = svg.createSVGPoint();
+          pt.x = clientX;
+          pt.y = clientY;
+          const transformed = pt.matrixTransform(inv);
+          if (Number.isFinite(transformed.x) && Number.isFinite(transformed.y)) {
+            return { x: transformed.x, y: transformed.y };
+          }
+        }
+      } catch {
+        // Fallback to exact geometric aspect-ratio calculation below
+      }
+    }
+    // High-precision bounding box fallback (100% mathematically exact to preserveAspectRatio="xMidYMid meet")
+    const rect = svg.getBoundingClientRect();
+    if (rect.width <= 0 || rect.height <= 0) return null;
+    const aspectVb = VIEW_W / VIEW_H;
+    const aspectBox = rect.width / rect.height;
+    let renderW = rect.width;
+    let renderH = rect.height;
+    let offX = 0;
+    let offY = 0;
+    if (aspectBox > aspectVb) {
+      renderW = rect.height * aspectVb;
+      offX = (rect.width - renderW) / 2;
+    } else {
+      renderH = rect.width / aspectVb;
+      offY = (rect.height - renderH) / 2;
+    }
+    const localX = clientX - rect.left - offX;
+    const localY = clientY - rect.top - offY;
+    return {
+      x: (localX / renderW) * VIEW_W,
+      y: (localY / renderH) * VIEW_H,
+    };
   }, []);
 
   // Converts client (screen) coordinates to internal map coordinates (accounting for pan & scale)
@@ -448,12 +480,21 @@ export default function VectorSvgMap({
     const svg = svgRef.current;
     if (contentGroup && svg) {
       const ctm = contentGroup.getScreenCTM();
-      if (ctm) {
-        const pt = svg.createSVGPoint();
-        pt.x = clientX;
-        pt.y = clientY;
-        const transformed = pt.matrixTransform(ctm.inverse());
-        return { x: transformed.x, y: transformed.y };
+      if (ctm && typeof ctm.inverse === "function") {
+        try {
+          const inv = ctm.inverse();
+          if (inv) {
+            const pt = svg.createSVGPoint();
+            pt.x = clientX;
+            pt.y = clientY;
+            const transformed = pt.matrixTransform(inv);
+            if (Number.isFinite(transformed.x) && Number.isFinite(transformed.y)) {
+              return { x: transformed.x, y: transformed.y };
+            }
+          }
+        } catch {
+          // Fallback to screenToSvgViewBox + state pan/scale
+        }
       }
     }
     // Fallback using root SVG + state pan & scale
@@ -729,7 +770,7 @@ export default function VectorSvgMap({
       const dy = e.clientY - dragStartRef.current.clientY;
       const dist = Math.hypot(dx, dy);
 
-      if (dist > 6) {
+      if (dist > 12) {
         if (!hasMovedRef.current) {
           hasMovedRef.current = true;
           setIsDragging(true);
@@ -820,7 +861,7 @@ export default function VectorSvgMap({
       const target = e.target as HTMLElement | null;
       if (
         !target?.closest("button, [role='button'], a, input, select, textarea, [data-map-control]") &&
-        (svgRef.current && svgRef.current.contains(e.target as Node))
+        (containerRef.current?.contains(target) || svgRef.current?.contains(target))
       ) {
         processClick(e.clientX, e.clientY);
       }
@@ -832,8 +873,7 @@ export default function VectorSvgMap({
   const handleSvgClick = useCallback((e: React.MouseEvent<SVGSVGElement>) => {
     const target = e.target as HTMLElement | null;
     if (
-      target?.closest("button, [role='button'], a, input, select, textarea, [data-map-control]") ||
-      (svgRef.current && !svgRef.current.contains(e.target as Node))
+      target?.closest("button, [role='button'], a, input, select, textarea, [data-map-control]")
     ) {
       return;
     }

@@ -8,7 +8,7 @@ import {
   normalizeLatLng,
 } from "./spatial";
 
-export const TOLERANCE_MULTIPLIER: Record<Difficulty, number> = { easy: 1.5, normal: 1, hard: 0.6 };
+export const TOLERANCE_MULTIPLIER: Record<Difficulty, number> = { easy: 1.4, normal: 1, hard: 0.8 };
 
 /** Default click tolerance (km) derived from the feature's category, geometry type, and extent. */
 export function defaultToleranceKm(g: Geometry, category?: GeographyCategory): number {
@@ -19,58 +19,59 @@ export function defaultToleranceKm(g: Geometry, category?: GeographyCategory): n
     switch (category) {
       case "rivers":
         // Rivers are thin 1D lines with 0 area across large continents, invisible on blind maps.
-        // A very generous 400–550 km corridor across the river basin gives students forgiving lenience.
-        return clamp(ext * 0.14, 400, 550);
+        // A generous 550–850 km corridor across the river basin gives students forgiving lenience
+        // on both mobile touchscreens and desktop mice.
+        return clamp(ext * 0.18, 550, 850);
 
       case "canals-straits":
         // Narrow straits and canals (Suez, Panama, Gibraltar, Bosporus, Dardanelles)
-        // High leniency (420–550 km) so clicking near the isthmus or strait is comfortably accepted.
-        return clamp(ext * 0.35, 420, 550);
+        // High leniency (500–750 km) so tapping near the isthmus or strait is comfortably accepted on all screens.
+        return clamp(ext * 0.35, 500, 750);
 
       case "mountains":
         // Peaks (Point, e.g. Kilimanjaro) and mountain ranges (Alps, Himalayas, Andes, Urals, Rockies, etc.)
-        return g.type === "Point" ? 450 : clamp(ext * 0.16, 320, 550);
+        return g.type === "Point" ? 550 : clamp(ext * 0.12, 350, 520);
 
       case "lakes":
         // Large and small lakes (Caspian Sea, Titicaca, Tanganyika, Victoria, Baikal, Chad, Malawi)
-        // Very generous leniency (400–550 km) so clicking near small or narrow lakes easily hits.
-        return clamp(ext * 0.22, 400, 550);
+        // Very generous leniency (500–750 km) so clicking anywhere in or near lakes easily hits on touchscreens.
+        return clamp(ext * 0.22, 500, 750);
 
       case "islands":
         // Small and large islands / archipelagos (Corsica, Balearics, Maldives, Seychelles, Taiwan, Sri Lanka, etc.)
-        // High leniency (420–650 km) for small island targets on global maps.
-        return clamp(ext * 0.25, 420, 650);
+        // High leniency (500–800 km) for small island targets on global maps.
+        return clamp(ext * 0.25, 500, 800);
 
       case "deserts":
         // Desert regions
-        return clamp(ext * 0.15, 320, 520);
+        return clamp(ext * 0.15, 380, 650);
 
       case "peninsulas":
         // Peninsulas (Deccan, Iberian, Balkan, Apennine)
-        return clamp(ext * 0.08, 100, 300);
+        return clamp(ext * 0.08, 100, 320);
 
       case "oceans-seas":
-        return clamp(ext * 0.08, 300, 550);
+        return clamp(ext * 0.10, 400, 750);
 
       case "continents":
         // Continents are massive continental landmasses.
-        // Generous tolerance (450–850 km) ensures offshore waters,
-        // adjacent archipelagos, and finger taps are comfortably recognized.
-        return clamp(ext * 0.08, 450, 850);
+        // Generous tolerance ensures offshore waters and adjacent archipelagos are recognized.
+        return clamp(ext * 0.10, 650, 1100);
 
       case "countries":
-        return clamp(ext * 0.04, 50, 200);
+        // Generous tolerance ensures border clicks and finger taps on smaller countries are recognized.
+        return clamp(ext * 0.06, 120, 350);
     }
   }
 
   switch (g.type) {
     case "Point":
-      return 420;
+      return 650;
     case "LineString":
     case "MultiLineString":
-      return clamp(ext * 0.12, 380, 520);
+      return clamp(ext * 0.18, 550, 850);
     default:
-      return clamp(ext * 0.08, 300, 480);
+      return clamp(ext * 0.12, 450, 750);
   }
 }
 
